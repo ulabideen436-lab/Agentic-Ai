@@ -1,0 +1,12 @@
+#Private/stare data
+
+data/raw/
+data/private/
+
+#Environment secrets
+
+.env
+
+#Pythin Cache
+
+__pycache__/
