@@ -1,12 +1,32 @@
-#Private/stare data
-
+# ==============================
+# Private / Sensitive Data
+# ==============================
 data/raw/
 data/private/
 
-#Environment secrets
-
+# ==============================
+# Environment / Secrets
+# ==============================
 .env
+.env.*
+!.env.example
 
-#Pythin Cache
-
+# ==============================
+# Python
+# ==============================
 __pycache__/
+*.py[cod]
+*.pyo
+
+# ==============================
+# Virtual Environment
+# ==============================
+.venv/
+venv/
+env/
+
+# ==============================
+# IDE
+# ==============================
+.vscode/
+.idea/
