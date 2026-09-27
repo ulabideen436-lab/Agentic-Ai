@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000269
+doc_id: product-zy0000000269-001
 title: "New Born Baby Blanket"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

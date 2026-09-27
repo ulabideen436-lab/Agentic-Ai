@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-jersey
+doc_id: fabric-jersey-001
 title: Jersey
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: mattress_cover
 last_updated: 2026-09-26
 visibility: public

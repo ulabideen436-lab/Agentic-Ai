@@ -1,9 +1,9 @@
 ---
-doc_id: size-curtain
+doc_id: size-curtain-001
 title: Curtain (parda) sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: curtain
 last_updated: 2026-09-26
 visibility: public

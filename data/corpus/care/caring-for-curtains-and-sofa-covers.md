@@ -1,9 +1,9 @@
 ---
-doc_id: care-curtain-sofa
+doc_id: care-curtain-sofa-001
 title: Caring for curtains and sofa covers
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: curtain
 last_updated: 2026-09-26
 visibility: public

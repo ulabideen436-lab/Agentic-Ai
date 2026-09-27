@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000385
+doc_id: product-zy0000000385-001
 title: "Double Blanket Bag"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: bag
 last_updated: 2026-09-26
 visibility: public

@@ -1,9 +1,9 @@
 ---
-doc_id: pol-internal-cod-refusal
+doc_id: policy-internal-cod-refusal-001
 title: "Staff procedure: handling a refused COD parcel"
-category: policy
-source: owner-draft
-language: [en]
+doc_type: policy
+origin: owner-draft
+language: en
 product_type: all
 last_updated: 2026-09-26
 visibility: internal

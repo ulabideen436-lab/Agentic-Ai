@@ -65,7 +65,7 @@ Also fix these in the POS catalogue itself:
 
 ## 7. Support Q&A: replace with real ones
 
-All 25 files in `support_qa/` are **synthetic**, with `source: synthetic`. The spec asks for real exchanges. Replace them with 20–30 real WhatsApp messages. Keep the customer's exact wording and typos, and remove names, phone numbers, addresses and order numbers. Real phrasing is also where the Days 6–8 eval questions should come from.
+All 25 files in `support_qa/` are **synthetic**, with `origin: synthetic`. The spec asks for real exchanges. Replace them with 20–30 real WhatsApp messages. Keep the customer's exact wording and typos, and remove names, phone numbers, addresses and order numbers. Real phrasing is also where the Days 6–8 eval questions should come from.
 
 ## 8. Lexicon: extend from real messages
 

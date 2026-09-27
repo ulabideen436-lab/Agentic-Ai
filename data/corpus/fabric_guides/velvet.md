@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-velvet
+doc_id: fabric-velvet-001
 title: Velvet (makhmal) razai covers and bed sheets
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: razai_cover
 last_updated: 2026-09-26
 visibility: public

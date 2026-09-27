@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000202
+doc_id: product-zy0000000202-001
 title: "Al Mattaf Jae Namaz"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: jae_namaz
 last_updated: 2026-09-26
 visibility: public

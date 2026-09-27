@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000178
+doc_id: product-zy0000000178-001
 title: "Almirah Box"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public

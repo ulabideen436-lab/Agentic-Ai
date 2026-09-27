@@ -1,9 +1,9 @@
 ---
-doc_id: ship-pickup
+doc_id: shipping-pickup-001
 title: Shop pickup and same-city delivery
-category: shipping
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: shipping
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

@@ -1,9 +1,9 @@
 ---
-doc_id: care-blanket
+doc_id: care-blanket-001
 title: Caring for cloudy, mink and fleece blankets
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

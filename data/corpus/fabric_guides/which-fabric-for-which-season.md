@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-season
+doc_id: fabric-season-001
 title: Which fabric for which season
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

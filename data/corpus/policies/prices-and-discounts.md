@@ -1,9 +1,9 @@
 ---
-doc_id: pol-prices
+doc_id: policy-prices-001
 title: Prices, discounts and price changes
-category: policy
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: policy
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

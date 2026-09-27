@@ -1,9 +1,9 @@
 ---
-doc_id: care-razai
+doc_id: care-razai-001
 title: Caring for a razai
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: razai
 last_updated: 2026-09-26
 visibility: public

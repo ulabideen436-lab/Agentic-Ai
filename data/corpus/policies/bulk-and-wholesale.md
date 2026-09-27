@@ -1,9 +1,9 @@
 ---
-doc_id: pol-bulk
+doc_id: policy-bulk-001
 title: Bulk and wholesale orders
-category: policy
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: policy
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

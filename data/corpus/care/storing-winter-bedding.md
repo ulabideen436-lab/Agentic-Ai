@@ -1,9 +1,9 @@
 ---
-doc_id: care-storage
+doc_id: care-storage-001
 title: Storing winter bedding in summer
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

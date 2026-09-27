@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000377
+doc_id: product-zy0000000377-001
 title: "Dream By ABC Bed Sheet"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public

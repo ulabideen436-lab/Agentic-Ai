@@ -1,9 +1,9 @@
 ---
-doc_id: care-bedsheet
+doc_id: care-bedsheet-001
 title: Washing bed sheets
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public

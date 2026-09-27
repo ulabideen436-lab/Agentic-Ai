@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000403
+doc_id: product-zy0000000403-001
 title: "Sitara Gadda"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: gadda
 last_updated: 2026-09-26
 visibility: public

@@ -1,9 +1,9 @@
 ---
-doc_id: pol-returns
+doc_id: policy-returns-001
 title: Returns policy
-category: policy
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: policy
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

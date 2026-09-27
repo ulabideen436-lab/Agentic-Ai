@@ -1,9 +1,9 @@
 ---
-doc_id: ship-zones
+doc_id: shipping-zones-001
 title: Delivery zones and timelines
-category: shipping
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: shipping
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

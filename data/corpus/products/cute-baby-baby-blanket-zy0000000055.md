@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000055
+doc_id: product-zy0000000055-001
 title: "Cute Baby Baby Blanket"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

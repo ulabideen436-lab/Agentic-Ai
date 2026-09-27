@@ -1,9 +1,9 @@
 ---
-doc_id: size-razai
+doc_id: size-razai-001
 title: Razai and razai cover sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: razai
 last_updated: 2026-09-26
 visibility: public

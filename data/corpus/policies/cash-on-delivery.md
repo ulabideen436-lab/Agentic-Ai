@@ -1,9 +1,9 @@
 ---
-doc_id: pol-cod
+doc_id: policy-cod-001
 title: Cash on delivery (COD)
-category: policy
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: policy
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

@@ -1,9 +1,9 @@
 ---
-doc_id: size-dasterkhawan
+doc_id: size-dasterkhawan-001
 title: Dasterkhawan sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: dasterkhawan
 last_updated: 2026-09-26
 visibility: public

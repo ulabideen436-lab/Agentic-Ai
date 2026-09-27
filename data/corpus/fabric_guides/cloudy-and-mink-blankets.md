@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-cloudy-mink
+doc_id: fabric-cloudy-mink-001
 title: Cloudy and mink blankets
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

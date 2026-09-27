@@ -1,9 +1,9 @@
 ---
-doc_id: size-blanket
+doc_id: size-blanket-001
 title: Blanket sizes (including cloudy blankets)
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

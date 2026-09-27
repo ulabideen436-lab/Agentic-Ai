@@ -1,9 +1,9 @@
 ---
-doc_id: prod-zy0000000307
+doc_id: product-zy0000000307-001
 title: "Butterfly Sofa Cover"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: sofa_cover
 last_updated: 2026-09-26
 visibility: public

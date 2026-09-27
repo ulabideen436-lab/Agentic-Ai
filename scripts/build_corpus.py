@@ -319,11 +319,11 @@ def product_page(p: dict) -> str:
     rel = f"data/raw/products/{slug(p['title'])}-{p['sku']}.md"
     guide = f"See \"{info['size_guide']}\"." if info["size_guide"] else ""
     return f"""---
-doc_id: prod-{p['sku']}
+doc_id: product-{p['sku']}-001
 title: "{p['title']}"
-category: product
-source: pos-catalogue
-language: [en, ur, roman-ur]
+doc_type: product
+origin: pos-catalogue
+language: mixed
 product_type: {p['product_type']}
 last_updated: {TODAY.isoformat()}
 visibility: public

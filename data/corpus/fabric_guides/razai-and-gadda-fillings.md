@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-fillings
+doc_id: fabric-fillings-001
 title: Razai and gadda fillings
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: razai
 last_updated: 2026-09-26
 visibility: public

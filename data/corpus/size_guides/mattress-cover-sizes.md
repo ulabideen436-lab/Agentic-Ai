@@ -1,9 +1,9 @@
 ---
-doc_id: size-mattress-cover
+doc_id: size-mattress-cover-001
 title: Mattress cover sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: mattress_cover
 last_updated: 2026-09-26
 visibility: public

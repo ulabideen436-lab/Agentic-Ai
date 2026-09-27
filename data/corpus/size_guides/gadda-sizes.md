@@ -1,9 +1,9 @@
 ---
-doc_id: size-gadda
+doc_id: size-gadda-001
 title: Gadda sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: gadda
 last_updated: 2026-09-26
 visibility: public

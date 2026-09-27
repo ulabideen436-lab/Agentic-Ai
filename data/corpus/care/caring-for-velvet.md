@@ -1,9 +1,9 @@
 ---
-doc_id: care-velvet
+doc_id: care-velvet-001
 title: Caring for velvet razai covers
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: razai_cover
 last_updated: 2026-09-26
 visibility: public

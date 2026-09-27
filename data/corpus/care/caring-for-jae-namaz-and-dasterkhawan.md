@@ -1,9 +1,9 @@
 ---
-doc_id: care-jae-namaz
+doc_id: care-jae-namaz-001
 title: Caring for jae namaz and dasterkhawan
-category: care
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: care
+origin: owner-draft
+language: mixed
 product_type: jae_namaz
 last_updated: 2026-09-26
 visibility: public

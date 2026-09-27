@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-fleece-sherpa
+doc_id: fabric-fleece-sherpa-001
 title: Fleece and sherpa
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: blanket
 last_updated: 2026-09-26
 visibility: public

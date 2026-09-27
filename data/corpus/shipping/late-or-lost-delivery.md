@@ -1,9 +1,9 @@
 ---
-doc_id: ship-late
+doc_id: shipping-late-001
 title: What if my delivery is late or lost
-category: shipping
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: shipping
+origin: owner-draft
+language: mixed
 product_type: all
 last_updated: 2026-09-26
 visibility: public

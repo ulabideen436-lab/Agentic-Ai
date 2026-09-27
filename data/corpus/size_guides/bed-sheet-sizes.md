@@ -1,9 +1,9 @@
 ---
-doc_id: size-bedsheet
+doc_id: size-bedsheet-001
 title: Bed sheet sizes
-category: size_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: size_guide
+origin: owner-draft
+language: mixed
 product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public

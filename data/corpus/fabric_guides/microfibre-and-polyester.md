@@ -1,9 +1,9 @@
 ---
-doc_id: fabric-microfibre
+doc_id: fabric-microfibre-001
 title: Microfibre and polyester sheets
-category: fabric_guide
-source: owner-draft
-language: [en, ur, roman-ur]
+doc_type: fabric_guide
+origin: owner-draft
+language: mixed
 product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public
