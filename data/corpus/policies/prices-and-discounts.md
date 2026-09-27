@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/policies/prices-and-discounts.md
+raw_path: data/raw/policies/prices-and-discounts.md
 verified: false
 ---
 

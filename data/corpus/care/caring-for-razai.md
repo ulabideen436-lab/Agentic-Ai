@@ -8,7 +8,7 @@ product_type: razai
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/care/caring-for-razai.md
+raw_path: data/raw/care/caring-for-razai.md
 verified: false
 ---
 

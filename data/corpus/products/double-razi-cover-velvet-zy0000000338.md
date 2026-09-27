@@ -8,7 +8,7 @@ product_type: razai_cover
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/double-razi-cover-velvet-zy0000000338.md
+raw_path: data/raw/products/double-razi-cover-velvet-zy0000000338.md
 verified: false
 sku: zy0000000338
 ---

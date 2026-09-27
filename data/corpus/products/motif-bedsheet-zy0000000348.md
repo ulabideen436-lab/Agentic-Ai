@@ -8,7 +8,7 @@ product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/motif-bedsheet-zy0000000348.md
+raw_path: data/raw/products/motif-bedsheet-zy0000000348.md
 verified: false
 sku: zy0000000348
 ---

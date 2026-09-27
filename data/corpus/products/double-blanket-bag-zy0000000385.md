@@ -8,7 +8,7 @@ product_type: bag
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/double-blanket-bag-zy0000000385.md
+raw_path: data/raw/products/double-blanket-bag-zy0000000385.md
 verified: false
 sku: zy0000000385
 ---

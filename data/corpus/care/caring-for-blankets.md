@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/care/caring-for-blankets.md
+raw_path: data/raw/care/caring-for-blankets.md
 verified: false
 ---
 

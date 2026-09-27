@@ -8,7 +8,7 @@ product_type: gadda
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/master-gadda-zy0000000284.md
+raw_path: data/raw/products/master-gadda-zy0000000284.md
 verified: false
 sku: zy0000000284
 ---

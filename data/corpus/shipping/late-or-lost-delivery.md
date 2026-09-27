@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/shipping/late-or-lost-delivery.md
+raw_path: data/raw/shipping/late-or-lost-delivery.md
 verified: false
 ---
 

@@ -8,7 +8,7 @@ product_type: sofa_cover
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/turkish-5-pcs-sofa-cover-zy0000000071.md
+raw_path: data/raw/products/turkish-5-pcs-sofa-cover-zy0000000071.md
 verified: false
 sku: zy0000000071
 ---

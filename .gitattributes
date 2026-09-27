@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Data files keep LF on every checkout, so the sha256 in data/manifest.csv
+# matches the bytes on disk on Windows as well as Linux and macOS.
+data/** text eol=lf

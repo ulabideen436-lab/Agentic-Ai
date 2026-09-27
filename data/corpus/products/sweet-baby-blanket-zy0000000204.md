@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/sweet-baby-blanket-zy0000000204.md
+raw_path: data/raw/products/sweet-baby-blanket-zy0000000204.md
 verified: false
 sku: zy0000000204
 ---

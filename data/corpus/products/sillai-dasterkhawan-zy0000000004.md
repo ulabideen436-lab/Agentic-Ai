@@ -8,7 +8,7 @@ product_type: dasterkhawan
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/sillai-dasterkhawan-zy0000000004.md
+raw_path: data/raw/products/sillai-dasterkhawan-zy0000000004.md
 verified: false
 sku: zy0000000004
 ---

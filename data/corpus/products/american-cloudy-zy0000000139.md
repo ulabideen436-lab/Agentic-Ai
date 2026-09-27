@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/american-cloudy-zy0000000139.md
+raw_path: data/raw/products/american-cloudy-zy0000000139.md
 verified: false
 sku: zy0000000139
 ---

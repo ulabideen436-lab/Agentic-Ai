@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/size_guides/how-to-choose-the-right-size.md
+raw_path: data/raw/size_guides/how-to-choose-the-right-size.md
 verified: false
 ---
 

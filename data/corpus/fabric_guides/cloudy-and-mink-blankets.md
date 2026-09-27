@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/fabric_guides/cloudy-and-mink-blankets.md
+raw_path: data/raw/fabric_guides/cloudy-and-mink-blankets.md
 verified: false
 ---
 

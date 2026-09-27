@@ -8,7 +8,7 @@ product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/almirah-box-zy0000000178.md
+raw_path: data/raw/products/almirah-box-zy0000000178.md
 verified: false
 sku: zy0000000178
 ---

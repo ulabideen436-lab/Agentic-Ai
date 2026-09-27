@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/new-born-baby-blanket-zy0000000269.md
+raw_path: data/raw/products/new-born-baby-blanket-zy0000000269.md
 verified: false
 sku: zy0000000269
 ---

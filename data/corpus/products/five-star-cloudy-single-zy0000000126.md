@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/five-star-cloudy-single-zy0000000126.md
+raw_path: data/raw/products/five-star-cloudy-single-zy0000000126.md
 verified: false
 sku: zy0000000126
 ---

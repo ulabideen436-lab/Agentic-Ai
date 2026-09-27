@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/policies/visiting-the-shop.md
+raw_path: data/raw/policies/visiting-the-shop.md
 verified: false
 ---
 

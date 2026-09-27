@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/fabric_guides/fleece-and-sherpa.md
+raw_path: data/raw/fabric_guides/fleece-and-sherpa.md
 verified: false
 ---
 

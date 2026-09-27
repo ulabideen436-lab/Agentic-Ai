@@ -8,7 +8,7 @@ product_type: mattress_cover
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/jersey-mattress-cover-zy0000000342.md
+raw_path: data/raw/products/jersey-mattress-cover-zy0000000342.md
 verified: false
 sku: zy0000000342
 ---

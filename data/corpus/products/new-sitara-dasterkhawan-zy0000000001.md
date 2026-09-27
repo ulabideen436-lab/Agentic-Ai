@@ -8,7 +8,7 @@ product_type: dasterkhawan
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/new-sitara-dasterkhawan-zy0000000001.md
+raw_path: data/raw/products/new-sitara-dasterkhawan-zy0000000001.md
 verified: false
 sku: zy0000000001
 ---

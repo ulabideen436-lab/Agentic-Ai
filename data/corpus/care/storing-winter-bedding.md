@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/care/storing-winter-bedding.md
+raw_path: data/raw/care/storing-winter-bedding.md
 verified: false
 ---
 

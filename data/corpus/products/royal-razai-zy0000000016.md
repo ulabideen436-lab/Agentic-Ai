@@ -8,7 +8,7 @@ product_type: razai
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/royal-razai-zy0000000016.md
+raw_path: data/raw/products/royal-razai-zy0000000016.md
 verified: false
 sku: zy0000000016
 ---

@@ -8,7 +8,7 @@ product_type: bed_cover
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/victory-4-pcs-bed-cover-zy0000000238.md
+raw_path: data/raw/products/victory-4-pcs-bed-cover-zy0000000238.md
 verified: false
 sku: zy0000000238
 ---

@@ -8,7 +8,7 @@ product_type: bed_sheet
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/fabric_guides/microfibre-and-polyester.md
+raw_path: data/raw/fabric_guides/microfibre-and-polyester.md
 verified: false
 ---
 

@@ -8,7 +8,7 @@ product_type: curtain
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/diamond-parda-zy0000000367.md
+raw_path: data/raw/products/diamond-parda-zy0000000367.md
 verified: false
 sku: zy0000000367
 ---

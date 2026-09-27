@@ -8,7 +8,7 @@ product_type: razai
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/crystal-razai-zy0000000005.md
+raw_path: data/raw/products/crystal-razai-zy0000000005.md
 verified: false
 sku: zy0000000005
 ---

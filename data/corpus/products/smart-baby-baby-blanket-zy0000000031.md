@@ -8,7 +8,7 @@ product_type: blanket
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/smart-baby-baby-blanket-zy0000000031.md
+raw_path: data/raw/products/smart-baby-baby-blanket-zy0000000031.md
 verified: false
 sku: zy0000000031
 ---

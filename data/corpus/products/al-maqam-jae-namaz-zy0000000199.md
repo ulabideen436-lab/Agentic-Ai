@@ -8,7 +8,7 @@ product_type: jae_namaz
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/al-maqam-jae-namaz-zy0000000199.md
+raw_path: data/raw/products/al-maqam-jae-namaz-zy0000000199.md
 verified: false
 sku: zy0000000199
 ---

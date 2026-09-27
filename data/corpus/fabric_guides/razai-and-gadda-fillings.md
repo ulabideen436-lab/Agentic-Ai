@@ -8,7 +8,7 @@ product_type: razai
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/fabric_guides/razai-and-gadda-fillings.md
+raw_path: data/raw/fabric_guides/razai-and-gadda-fillings.md
 verified: false
 ---
 

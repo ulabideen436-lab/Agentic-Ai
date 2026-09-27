@@ -8,7 +8,7 @@ product_type: jae_namaz
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/care/caring-for-jae-namaz-and-dasterkhawan.md
+raw_path: data/raw/care/caring-for-jae-namaz-and-dasterkhawan.md
 verified: false
 ---
 

@@ -8,7 +8,7 @@ product_type: razai_cover
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/products/plachi-razai-cover-zy0000000359.md
+raw_path: data/raw/products/plachi-razai-cover-zy0000000359.md
 verified: false
 sku: zy0000000359
 ---

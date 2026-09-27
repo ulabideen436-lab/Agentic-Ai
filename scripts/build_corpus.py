@@ -4,7 +4,9 @@ Writes:
   data/corpus/products/*.md      one document per product
   data/structured/prices_stock.csv   retail price + stock status (no cost data)
   data/structured/orders.csv     200 synthetic orders built on those products
-  data/corpus/manifest.csv       metadata of every corpus document
+
+Then run scripts/stage.py, which stages everything into data/raw/ and writes
+data/manifest.csv.
 
 Usage:
   python scripts/build_corpus.py --catalogue <path to products-export.json>
@@ -313,7 +315,8 @@ def product_page(p: dict) -> str:
     size_label = {"baby_small": "small baby", "baby_large": "large baby"}.get(size, size)
     size_line = (f"{size_label.capitalize()}: {measurement}." if measurement
                  else "Not stated in the product name. Ask the shop, or see the size guide.")
-    rel = f"data/corpus/products/{slug(p['title'])}-{p['sku']}.md"
+    # Where scripts/stage.py puts the staged copy, which is what citations trace to.
+    rel = f"data/raw/products/{slug(p['title'])}-{p['sku']}.md"
     guide = f"See \"{info['size_guide']}\"." if info["size_guide"] else ""
     return f"""---
 doc_id: prod-{p['sku']}
@@ -357,7 +360,8 @@ def write_products(chosen: list[dict]) -> None:
 
 def write_prices(products: list[dict]) -> None:
     with (STRUCTURED / "prices_stock.csv").open("w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
+        # LF, so the file's sha256 in data/manifest.csv survives a git checkout.
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(["sku", "name", "product_type", "retail_price", "stock_status", "as_of"])
         for p in products:
             writer.writerow([p["sku"], p["title"], p["product_type"], p["retail_price"],
@@ -410,59 +414,29 @@ def write_orders(products: list[dict], count: int = 200) -> None:
             "tracking_number": f"TCS{rng.randint(10**9, 10**10 - 1)}" if shipped else "",
         })
     with (STRUCTURED / "orders.csv").open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=list(rows[0]))
+        writer = csv.DictWriter(f, fieldnames=list(rows[0]), lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
-
-
-FRONTMATTER = re.compile(r"\A---\n(.*?)\n---\n", re.S)
-MANIFEST_FIELDS = ["doc_id", "source", "title", "category", "language", "product_type",
-                   "last_updated", "visibility", "contains_personal_data", "raw_path", "verified"]
-
-
-def write_manifest() -> int:
-    rows = []
-    for path in sorted(CORPUS.rglob("*.md")):
-        match = FRONTMATTER.match(path.read_text(encoding="utf-8"))
-        if not match:
-            raise SystemExit(f"No frontmatter in {path}")
-        meta = {}
-        for line in match.group(1).splitlines():
-            key, _, value = line.partition(":")
-            meta[key.strip()] = value.strip().strip('"')
-        missing = [k for k in MANIFEST_FIELDS if not meta.get(k)]
-        if missing:
-            raise SystemExit(f"{path} is missing {missing}")
-        rows.append({k: meta[k] for k in MANIFEST_FIELDS})
-    with (CORPUS / "manifest.csv").open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=MANIFEST_FIELDS)
-        writer.writeheader()
-        writer.writerows(rows)
-    return len(rows)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--catalogue", type=Path, help="POS products-export.json")
-    parser.add_argument("--manifest-only", action="store_true", help="only rebuild manifest.csv")
+    parser.add_argument("--catalogue", type=Path, required=True, help="POS products-export.json")
     args = parser.parse_args()
 
     STRUCTURED.mkdir(parents=True, exist_ok=True)
     (CORPUS / "products").mkdir(parents=True, exist_ok=True)
-    if not args.manifest_only:
-        if not args.catalogue:
-            parser.error("--catalogue is required unless --manifest-only")
-        products, duplicates = load_catalogue(args.catalogue)
-        chosen = select_for_pages(products)
-        write_products(chosen)
-        write_prices(products)
-        write_orders(products)
-        print(f"{len(products)} categorised products -> prices_stock.csv")
-        print(f"{len(chosen)} product pages written")
-        print("200 synthetic orders -> orders.csv")
-        if duplicates:
-            print(f"Duplicate names skipped (fix in the POS): {sorted(set(duplicates))}")
-    print(f"{write_manifest()} documents in manifest.csv")
+    products, duplicates = load_catalogue(args.catalogue)
+    chosen = select_for_pages(products)
+    write_products(chosen)
+    write_prices(products)
+    write_orders(products)
+    print(f"{len(products)} categorised products -> prices_stock.csv")
+    print(f"{len(chosen)} product pages written")
+    print("200 synthetic orders -> orders.csv")
+    if duplicates:
+        print(f"Duplicate names skipped (fix in the POS): {sorted(set(duplicates))}")
+    print("Next: python scripts/stage.py to stage these and rebuild data/manifest.csv")
 
 
 if __name__ == "__main__":

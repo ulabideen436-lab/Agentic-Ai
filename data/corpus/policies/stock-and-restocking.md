@@ -8,7 +8,7 @@ product_type: all
 last_updated: 2026-09-26
 visibility: public
 contains_personal_data: false
-raw_path: data/corpus/policies/stock-and-restocking.md
+raw_path: data/raw/policies/stock-and-restocking.md
 verified: false
 ---
 
