@@ -1,0 +1,227 @@
+sku,name,product_type,retail_price,stock_status,as_of
+zy0000000001,New Sitara Dasterkhawan,dasterkhawan,900,in_stock,2026-09-26
+zy0000000003,Sitara Dasterkhawan,dasterkhawan,1450,in_stock,2026-09-26
+zy0000000004,Sillai Dasterkhawan,dasterkhawan,400,in_stock,2026-09-26
+zy0000000005,Crystal Razai,razai,1800,in_stock,2026-09-26
+zy0000000006,Crystal Gadda,gadda,1200,in_stock,2026-09-26
+zy0000000010,Super Gadda,gadda,1200,in_stock,2026-09-26
+zy0000000011,Super Razai,razai,1800,in_stock,2026-09-26
+zy0000000012,Life Time Gadda,gadda,1250,in_stock,2026-09-26
+zy0000000013,Life Time Razai,razai,1900,in_stock,2026-09-26
+zy0000000016,Royal Razai,razai,1900,in_stock,2026-09-26
+zy0000000017,Royal Gadda,gadda,1250,in_stock,2026-09-26
+zy0000000019,Curtain,curtain,750,in_stock,2026-09-26
+zy0000000020,Royal King Size Bedsheet,bed_sheet,1150,in_stock,2026-09-26
+zy0000000022,Crystal Double Bed ABC,bed_sheet,1000,in_stock,2026-09-26
+zy0000000027,King Eskimo Double Bed,bed_sheet,10000,in_stock,2026-09-26
+zy0000000029,Shapar Plant Razai,razai,5000,in_stock,2026-09-26
+zy0000000030,Velvet Bedsheet 4 pcs Genral,bed_sheet,3200,in_stock,2026-09-26
+zy0000000031,Smart Baby Baby Blanket,blanket,1350,in_stock,2026-09-26
+zy0000000032,Decent Baby Baby Blanket,blanket,1300,in_stock,2026-09-26
+zy0000000033,Shine Star Baby Blanket,blanket,1350,in_stock,2026-09-26
+zy0000000042,White Cloudy,blanket,10000,in_stock,2026-09-26
+zy0000000055,Cute Baby Baby Blanket,blanket,1460,in_stock,2026-09-26
+zy0000000056,Pure Lily Baby Blanket,blanket,1100,in_stock,2026-09-26
+zy0000000057,Cozeecoo Baby Blanket,blanket,2260,in_stock,2026-09-26
+zy0000000058,Pure Lily Single Bed,bed_sheet,2000,in_stock,2026-09-26
+zy0000000059,Spring Single Bed,bed_sheet,3500,in_stock,2026-09-26
+zy0000000060,Feeling Single Bed,bed_sheet,5000,in_stock,2026-09-26
+zy0000000061,Smart Cloudy Single Bed,blanket,7000,in_stock,2026-09-26
+zy0000000062,Knowledge Single Bed,bed_sheet,7000,in_stock,2026-09-26
+zy0000000070,Good Night 3 pcs Bedsheets,bed_sheet,6700,in_stock,2026-09-26
+zy0000000071,Turkish 5 pcs Sofa Cover,sofa_cover,2500,in_stock,2026-09-26
+zy0000000072,Irani Blanket,blanket,2400,in_stock,2026-09-26
+zy0000000073,Pure Lily 4 pcs Bedsheet,bed_sheet,7800,in_stock,2026-09-26
+zy0000000074,Morga Gold 4 pcs Bedsheet,bed_sheet,10300,in_stock,2026-09-26
+zy0000000075,Korea Touch 4 pcs Bedsheet,bed_sheet,11000,in_stock,2026-09-26
+zy0000000076,Alfima 4 pcs Bedsheet,bed_sheet,12500,in_stock,2026-09-26
+zy0000000077,Trendy Cloudy 4 pcs Bedsheet,bed_sheet,13300,in_stock,2026-09-26
+zy0000000078,Favorite 4 pcs Bedsheet,bed_sheet,13500,in_stock,2026-09-26
+zy0000000079,Morga Gold Cloudy 4 pcs,blanket,14300,in_stock,2026-09-26
+zy0000000080,Cutify 4 pcs Bedsheet,bed_sheet,14500,in_stock,2026-09-26
+zy0000000081,Blue Berry 4 pcs Bedsheet,bed_sheet,14500,in_stock,2026-09-26
+zy0000000082,Denzy 4 pcs Bedsheet,bed_sheet,14500,in_stock,2026-09-26
+zy0000000085,Unique Blanket,blanket,2900,in_stock,2026-09-26
+zy0000000086,Lousi Dream Blanket,blanket,3500,in_stock,2026-09-26
+zy0000000087,Pure Lily Blanket,blanket,2800,in_stock,2026-09-26
+zy0000000089,Korea Tax Jae Namaz,jae_namaz,1100,in_stock,2026-09-26
+zy0000000090,Sky Blue Double Bed,bed_sheet,2500,in_stock,2026-09-26
+zy0000000091,Pleasure Double Bed,bed_sheet,2850,in_stock,2026-09-26
+zy0000000092,Treasure Double Bed,bed_sheet,2850,in_stock,2026-09-26
+zy0000000093,Welcome Without Border Double Bed,bed_sheet,2900,in_stock,2026-09-26
+zy0000000094,Welcome Border Double Bed,bed_sheet,2900,in_stock,2026-09-26
+zy0000000095,Kindle Vella Double Bed,bed_sheet,2900,in_stock,2026-09-26
+zy0000000100,Fame Double Bed,bed_sheet,3100,in_stock,2026-09-26
+zy0000000101,Polo Double Bed,bed_sheet,3100,in_stock,2026-09-26
+zy0000000102,Fortune Double Bed,bed_sheet,3100,in_stock,2026-09-26
+zy0000000103,Denim Double Bed,bed_sheet,3100,in_stock,2026-09-26
+zy0000000105,New Look Double Bed,bed_sheet,3200,in_stock,2026-09-26
+zy0000000106,Sun Set Double Bed,bed_sheet,3200,in_stock,2026-09-26
+zy0000000109,Queen Border Double Bed,bed_sheet,3600,in_stock,2026-09-26
+zy0000000126,Five Star Cloudy Single,blanket,7000,in_stock,2026-09-26
+zy0000000128,Divine Double Blanket,blanket,4800,in_stock,2026-09-26
+zy0000000134,Lori Blanket,blanket,6800,in_stock,2026-09-26
+zy0000000135,Saffron Blanket,blanket,7200,in_stock,2026-09-26
+zy0000000136,Wanted Blanket,blanket,7400,in_stock,2026-09-26
+zy0000000137,Miracle Cloudy,blanket,7400,in_stock,2026-09-26
+zy0000000139,American Cloudy,blanket,7500,in_stock,2026-09-26
+zy0000000141,Best Choice Cloudy,blanket,7700,in_stock,2026-09-26
+zy0000000142,Euro Cloudy,blanket,8000,in_stock,2026-09-26
+zy0000000143,Dollar Cloudy,blanket,8000,in_stock,2026-09-26
+zy0000000146,Amazon Gold USA Cloudy,blanket,8500,in_stock,2026-09-26
+zy0000000147,Million Gold Cloudy,blanket,8500,in_stock,2026-09-26
+zy0000000149,Vision Cloudy,blanket,8600,in_stock,2026-09-26
+zy0000000150,Penguin Cloudy,blanket,8600,in_stock,2026-09-26
+zy0000000165,Beauty Forever Cloudy,blanket,10000,in_stock,2026-09-26
+zy0000000166,Shaggy Blanket,blanket,9000,in_stock,2026-09-26
+zy0000000167,King Eskimo Blanket,blanket,10700,in_stock,2026-09-26
+zy0000000168,Mimosa Poly Bag,blanket,9500,in_stock,2026-09-26
+zy0000000169,King Eskimo 4 pcs Box,bed_sheet,10900,in_stock,2026-09-26
+zy0000000170,Mimosa Box,bed_sheet,10900,in_stock,2026-09-26
+zy0000000171,Almirah Poly Bag,blanket,11800,in_stock,2026-09-26
+zy0000000172,Korea Tax Poly Bag,blanket,11800,in_stock,2026-09-26
+zy0000000173,Tiger Box,bed_sheet,12300,in_stock,2026-09-26
+zy0000000174,Shaggy 4 pcs Box,bed_sheet,12300,in_stock,2026-09-26
+zy0000000176,King Horse Box,bed_sheet,12500,in_stock,2026-09-26
+zy0000000177,Korea Tax Box,bed_sheet,12500,in_stock,2026-09-26
+zy0000000178,Almirah Box,bed_sheet,12500,in_stock,2026-09-26
+zy0000000179,Purple Moon Box,bed_sheet,14600,in_stock,2026-09-26
+zy0000000180,True Love Box,bed_sheet,13900,in_stock,2026-09-26
+zy0000000181,Crown Box,bed_sheet,14600,in_stock,2026-09-26
+zy0000000182,Moro Gold Spain Box,bed_sheet,15800,in_stock,2026-09-26
+zy0000000183,London Eye Box,bed_sheet,14700,in_stock,2026-09-26
+zy0000000184,Marriage Night Box,bed_sheet,14700,in_stock,2026-09-26
+zy0000000185,Mannat Box,bed_sheet,16000,in_stock,2026-09-26
+zy0000000186,Manahil Box,bed_sheet,16000,in_stock,2026-09-26
+zy0000000187,Camary New Box,bed_sheet,16600,in_stock,2026-09-26
+zy0000000188,Million Gold Cloudy 4 pcs,blanket,17400,in_stock,2026-09-26
+zy0000000189,Hollywood Fashion Box,bed_sheet,17500,in_stock,2026-09-26
+zy0000000190,3 Pcs Poly Bag,blanket,6800,in_stock,2026-09-26
+zy0000000192,Silver Home King Size 3 pcs Bedsheet,bed_sheet,1900,in_stock,2026-09-26
+zy0000000193,Elite Home King Size 3 pcs Bedsheet,bed_sheet,2000,in_stock,2026-09-26
+zy0000000194,Rose Mist Double Bed Blanket,blanket,4100,in_stock,2026-09-26
+zy0000000195,Silky Thread Double Bed Blanket,blanket,4500,in_stock,2026-09-26
+zy0000000196,Blue Bell Double Blanket,blanket,5600,in_stock,2026-09-26
+zy0000000197,Select One Double Bed Blanket,blanket,6400,in_stock,2026-09-26
+zy0000000198,Al Qamar Jae Namaz,jae_namaz,650,in_stock,2026-09-26
+zy0000000199,Al Maqam Jae Namaz,jae_namaz,700,in_stock,2026-09-26
+zy0000000200,Al Tazkiya Jae Namaz,jae_namaz,750,in_stock,2026-09-26
+zy0000000201,Perfection 4 pcs Bed Cover,bed_cover,13900,in_stock,2026-09-26
+zy0000000202,Al Mattaf Jae Namaz,jae_namaz,750,in_stock,2026-09-26
+zy0000000203,Al Falah Jae Namaz,jae_namaz,800,in_stock,2026-09-26
+zy0000000204,Sweet Baby Blanket,blanket,1800,in_stock,2026-09-26
+zy0000000205,Smile Baby Blanket,blanket,1900,in_stock,2026-09-26
+zy0000000206,Golden Baby Blanket,blanket,1950,in_stock,2026-09-26
+zy0000000207,Sweet Baby Blanket Small,blanket,2000,in_stock,2026-09-26
+zy0000000208,Disney Baby Blanket Large,blanket,2800,in_stock,2026-09-26
+zy0000000209,Super Baby Cloudy Blanket,blanket,2800,in_stock,2026-09-26
+zy0000000210,Sweet Baby Blanket Large,blanket,2800,in_stock,2026-09-26
+zy0000000215,Soft Sherpa Single Bed,bed_sheet,3800,in_stock,2026-09-26
+zy0000000216,Flex E Dream 4 pcs Bed Cover,bed_cover,6000,in_stock,2026-09-26
+zy0000000217,Miami Dream Single Bed,bed_sheet,4000,in_stock,2026-09-26
+zy0000000218,Arizona Dream Single Bed,bed_sheet,4300,in_stock,2026-09-26
+zy0000000219,Accurate Single Bed,bed_sheet,4500,in_stock,2026-09-26
+zy0000000220,Disney Teenage Single Bed,bed_sheet,4900,in_stock,2026-09-26
+zy0000000221,Super Cloudy Single Bed,blanket,5500,in_stock,2026-09-26
+zy0000000222,Super Select Single Bed,bed_sheet,5600,in_stock,2026-09-26
+zy0000000223,Burjjan Single Bed,bed_sheet,6600,in_stock,2026-09-26
+zy0000000224,Precious Pearl Double Bed,bed_sheet,3600,in_stock,2026-09-26
+zy0000000225,Lotus Double Bed Blanket,blanket,4000,in_stock,2026-09-26
+zy0000000226,Victory Double Bed Blanket,blanket,4000,in_stock,2026-09-26
+zy0000000227,Spring Rose Cloudy Double Bed,blanket,5800,in_stock,2026-09-26
+zy0000000228,New Age Double Bed Blanket,blanket,6000,in_stock,2026-09-26
+zy0000000229,Nangrosa Double Bed Blanket,blanket,7000,in_stock,2026-09-26
+zy0000000231,Super Select Double Bed Blanket,blanket,7400,in_stock,2026-09-26
+zy0000000237,Lavender 4 pcs Bed Cover,bed_cover,9800,in_stock,2026-09-26
+zy0000000238,Victory 4 pcs Bed Cover,bed_cover,9800,in_stock,2026-09-26
+zy0000000239,Winner 4 pcs Bed Cover,bed_cover,11000,in_stock,2026-09-26
+zy0000000240,Nice Select Cloudy 4 Pcs Bed Cover,bed_cover,11000,in_stock,2026-09-26
+zy0000000241,Spring Rose 4 pcs Bed Cover,bed_cover,11200,in_stock,2026-09-26
+zy0000000242,Nice Select DG 4 pcs Bed Cover,bed_cover,12200,in_stock,2026-09-26
+zy0000000243,Black Rose 4 pcs Bed Cover,bed_cover,12800,in_stock,2026-09-26
+zy0000000244,Golden 4 pcs Bed Cover,bed_cover,14000,in_stock,2026-09-26
+zy0000000245,Bloom Petal DG 4 pcs Bed Cover,bed_cover,14200,in_stock,2026-09-26
+zy0000000246,Super Cloudy 4 pcs Bed Cover,bed_cover,14300,in_stock,2026-09-26
+zy0000000247,Super Cloudy DG 4 pcs Bed Cover,bed_cover,15700,in_stock,2026-09-26
+zy0000000248,Black Rose 12 pcs Bed Cover,bed_cover,17800,in_stock,2026-09-26
+zy0000000250,UNO-1 4 pcs Bed Cover,bed_cover,20000,in_stock,2026-09-26
+zy0000000251,Pierre Cardin Baby Blanket,blanket,3600,in_stock,2026-09-26
+zy0000000252,Baby Perla Gold Baby Blanket Small,blanket,3900,in_stock,2026-09-26
+zy0000000253,Baby Perla Gold Baby Blanket Large,blanket,6500,in_stock,2026-09-26
+zy0000000254,Pierre Cardin Nancy Baby Blanket Large,blanket,7000,in_stock,2026-09-26
+zy0000000267,Cristen Single Bed,bed_sheet,4400,in_stock,2026-09-26
+zy0000000269,New Born Baby Blanket,blanket,800,in_stock,2026-09-26
+zy0000000283,Bridal Razai Set 9 pcs,razai,9500,in_stock,2026-09-26
+zy0000000284,Master Gadda,gadda,1300,in_stock,2026-09-26
+zy0000000285,Master Razai,razai,1900,in_stock,2026-09-26
+zy0000000288,Queen Box,bed_sheet,16000,in_stock,2026-09-26
+zy0000000289,Suiltani Box,bed_sheet,16000,in_stock,2026-09-26
+zy0000000293,Sitara Box,bed_sheet,15500,in_stock,2026-09-26
+zy0000000294,Tajmahal Box,bed_sheet,17000,in_stock,2026-09-26
+zy0000000295,Beauty Forever Box,bed_sheet,17400,in_stock,2026-09-26
+zy0000000296,Dollar Box,bed_sheet,15000,in_stock,2026-09-26
+zy0000000297,Star Link Box,bed_sheet,13900,in_stock,2026-09-26
+zy0000000298,Camary Box,bed_sheet,15900,in_stock,2026-09-26
+zy0000000299,Golden Beast Box,bed_sheet,15900,in_stock,2026-09-26
+zy0000000300,Splendid Cloudy,blanket,9600,in_stock,2026-09-26
+zy0000000301,Stylo Box,bed_sheet,13900,in_stock,2026-09-26
+zy0000000302,Florence Cloudy,blanket,8000,in_stock,2026-09-26
+zy0000000304,Korea Touch Box,bed_sheet,11000,in_stock,2026-09-26
+zy0000000305,Trendy Cloudy Box,blanket,13500,in_stock,2026-09-26
+zy0000000306,Denzy Box,bed_sheet,14500,in_stock,2026-09-26
+zy0000000307,Butterfly Sofa Cover,sofa_cover,3500,in_stock,2026-09-26
+zy0000000308,Signature Box,bed_sheet,13500,in_stock,2026-09-26
+zy0000000309,Vicky Razai Set 14 pcs,razai,11200,in_stock,2026-09-26
+zy0000000310,Vick Razai Silk 14 Pcs,razai,9200,in_stock,2026-09-26
+zy0000000311,Vicky Razai Double Malai 14 Pcs,razai,16500,in_stock,2026-09-26
+zy0000000312,Comforter Razai Set 14 Pcs,razai,16500,in_stock,2026-09-26
+zy0000000313,Velvet Kadai Razai Set 14 pcs,razai,17500,in_stock,2026-09-26
+zy0000000314,Motaf Razai Set 14 pcs,razai,9850,in_stock,2026-09-26
+zy0000000316,Alqibla Jae Namaz 70 *110,jae_namaz,650,in_stock,2026-09-26
+zy0000000317,Alqibla Jae Namaz 80*120,jae_namaz,850,in_stock,2026-09-26
+zy0000000318,Sami Gold Razai Cover,razai_cover,3500,in_stock,2026-09-26
+zy0000000324,Diamond Bedsheet 3 pcs,bed_sheet,1150,in_stock,2026-09-26
+zy0000000325,Sultani Box,bed_sheet,16120,in_stock,2026-09-26
+zy0000000326,Velvet Print 4 Pile,velvet,3800,in_stock,2026-09-26
+zy0000000327,Print Velvet PK,velvet,3700,in_stock,2026-09-26
+zy0000000330,Ari Karai Velvet,velvet,4700,in_stock,2026-09-26
+zy0000000332,Shapper Plant 4 Pile Velvet,velvet,5500,in_stock,2026-09-26
+zy0000000333,Shapper Plant Dagga Velvet,velvet,5500,in_stock,2026-09-26
+zy0000000334,Bareeza Karai Velvet,velvet,6600,in_stock,2026-09-26
+zy0000000338,Double Razi Cover Velvet,razai_cover,5000,in_stock,2026-09-26
+zy0000000339,Copper Tila Sitari Velvet,velvet,5400,in_stock,2026-09-26
+zy0000000340,Digital Print Velvet,velvet,5000,in_stock,2026-09-26
+zy0000000341,Fomi Mattress Cover,mattress_cover,1800,in_stock,2026-09-26
+zy0000000342,Jersey Mattress Cover,mattress_cover,1500,in_stock,2026-09-26
+zy0000000344,Multi Mattress Cover,mattress_cover,1300,in_stock,2026-09-26
+zy0000000345,Fomi Bedsheet,bed_sheet,2500,in_stock,2026-09-26
+zy0000000346,Cotton Bedsheet Single,bed_sheet,2350,in_stock,2026-09-26
+zy0000000347,Cotton Bedsheet Double,bed_sheet,2250,in_stock,2026-09-26
+zy0000000348,Motif Bedsheet,bed_sheet,3500,in_stock,2026-09-26
+zy0000000353,Motif Razai,razai,5000,in_stock,2026-09-26
+zy0000000354,Fomi Razai,razai,4200,in_stock,2026-09-26
+zy0000000355,Fancy Bedsheet Raad,bed_sheet,6000,in_stock,2026-09-26
+zy0000000356,Cotton Karandi Gadda,gadda,2500,in_stock,2026-09-26
+zy0000000357,Jersey Single Razai,razai,1800,in_stock,2026-09-26
+zy0000000359,Plachi Razai Cover,razai_cover,4000,in_stock,2026-09-26
+zy0000000363,Diamond Double Bed,bed_sheet,1800,in_stock,2026-09-26
+zy0000000367,Diamond Parda,curtain,900,in_stock,2026-09-26
+zy0000000368,Malai Parda,curtain,2000,in_stock,2026-09-26
+zy0000000375,Gol Takiya,pillow,1000,in_stock,2026-09-26
+zy0000000377,Dream By ABC Bed Sheet,bed_sheet,1650,in_stock,2026-09-26
+zy0000000379,Jersi Razai,razai,2300,in_stock,2026-09-26
+zy0000000381,Emboss Razai,razai,2600,in_stock,2026-09-26
+zy0000000382,Chamki Razai,razai,2800,in_stock,2026-09-26
+zy0000000383,Asli Pari Velvet,velvet,7000,in_stock,2026-09-26
+zy0000000384,Single Blanket Bag,bag,150,in_stock,2026-09-26
+zy0000000385,Double Blanket Bag,bag,250,in_stock,2026-09-26
+zy0000000387,Razai Set Bag,bag,350,in_stock,2026-09-26
+zy0000000395,Malai Bedsheet,bed_sheet,8500,in_stock,2026-09-26
+zy0000000396,Rashmi Gadda,gadda,1200,in_stock,2026-09-26
+zy0000000399,Divine Double Bed,bed_sheet,4500,in_stock,2026-09-26
+zy0000000403,Sitara Gadda,gadda,1050,in_stock,2026-09-26
+zy0000000411,Vicky Razai Single Bed,razai,2800,in_stock,2026-09-26
+zy0000000412,Vicky Razai Double Bed,razai,3600,in_stock,2026-09-26
+zy0000000415,Kat Moti Velvet,velvet,5000,in_stock,2026-09-26
+zy0000000416,Gultax Chamki Double Bedsheet,bed_sheet,2200,in_stock,2026-09-26
+zy0000000417,Nayab Box,bed_sheet,11000,in_stock,2026-09-26

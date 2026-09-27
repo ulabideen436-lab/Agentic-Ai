@@ -1,0 +1,149 @@
+doc_id,source,title,category,language,product_type,last_updated,visibility,contains_personal_data,raw_path,verified
+care-blanket,owner-draft,"Caring for cloudy, mink and fleece blankets",care,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/care/caring-for-blankets.md,false
+care-curtain-sofa,owner-draft,Caring for curtains and sofa covers,care,"[en, ur, roman-ur]",curtain,2026-09-26,public,false,data/corpus/care/caring-for-curtains-and-sofa-covers.md,false
+care-gadda,owner-draft,Caring for a gadda,care,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/care/caring-for-gadda.md,false
+care-jae-namaz,owner-draft,Caring for jae namaz and dasterkhawan,care,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/care/caring-for-jae-namaz-and-dasterkhawan.md,false
+care-razai,owner-draft,Caring for a razai,care,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/care/caring-for-razai.md,false
+care-velvet,owner-draft,Caring for velvet razai covers,care,"[en, ur, roman-ur]",razai_cover,2026-09-26,public,false,data/corpus/care/caring-for-velvet.md,false
+care-storage,owner-draft,Storing winter bedding in summer,care,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/care/storing-winter-bedding.md,false
+care-bedsheet,owner-draft,Washing bed sheets,care,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/care/washing-bed-sheets.md,false
+fabric-cloudy-mink,owner-draft,Cloudy and mink blankets,fabric_guide,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/fabric_guides/cloudy-and-mink-blankets.md,false
+fabric-cotton,owner-draft,Cotton (suti) bedding,fabric_guide,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/fabric_guides/cotton.md,false
+fabric-fleece-sherpa,owner-draft,Fleece and sherpa,fabric_guide,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/fabric_guides/fleece-and-sherpa.md,false
+fabric-jersey,owner-draft,Jersey,fabric_guide,"[en, ur, roman-ur]",mattress_cover,2026-09-26,public,false,data/corpus/fabric_guides/jersey.md,false
+fabric-microfibre,owner-draft,Microfibre and polyester sheets,fabric_guide,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/fabric_guides/microfibre-and-polyester.md,false
+fabric-fillings,owner-draft,Razai and gadda fillings,fabric_guide,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/fabric_guides/razai-and-gadda-fillings.md,false
+fabric-velvet,owner-draft,Velvet (makhmal) razai covers and bed sheets,fabric_guide,"[en, ur, roman-ur]",razai_cover,2026-09-26,public,false,data/corpus/fabric_guides/velvet.md,false
+fabric-season,owner-draft,Which fabric for which season,fabric_guide,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/fabric_guides/which-fabric-for-which-season.md,false
+pol-bulk,owner-draft,Bulk and wholesale orders,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/bulk-and-wholesale.md,false
+pol-cod,owner-draft,Cash on delivery (COD),policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/cash-on-delivery.md,false
+pol-damaged,owner-draft,Damaged or wrong item received,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/damaged-or-wrong-item.md,false
+pol-exchange,owner-draft,Exchange policy (size exchanges),policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/exchange.md,false
+pol-internal-cod-refusal,owner-draft,Staff procedure: handling a refused COD parcel,policy,[en],all,2026-09-26,internal,false,data/corpus/policies/internal-cod-refusal-procedure.md,false
+pol-internal-order-confirmation,owner-draft,Staff procedure: confirming a new order,policy,[en],all,2026-09-26,internal,false,data/corpus/policies/internal-order-confirmation-procedure.md,false
+pol-cancellation,owner-draft,Order cancellation,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/order-cancellation.md,false
+pol-order-status,owner-draft,What each order status means,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/order-status-meanings.md,false
+pol-payment,owner-draft,Payment methods,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/payment-methods.md,false
+pol-prices,owner-draft,"Prices, discounts and price changes",policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/prices-and-discounts.md,false
+pol-refunds,owner-draft,Refunds,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/refunds.md,false
+pol-returns,owner-draft,Returns policy,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/returns.md,false
+pol-stock,owner-draft,Stock and restocking,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/stock-and-restocking.md,false
+pol-store-visit,owner-draft,Visiting the shop,policy,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/policies/visiting-the-shop.md,false
+prod-zy0000000199,pos-catalogue,Al Maqam Jae Namaz,product,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/products/al-maqam-jae-namaz-zy0000000199.md,false
+prod-zy0000000202,pos-catalogue,Al Mattaf Jae Namaz,product,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/products/al-mattaf-jae-namaz-zy0000000202.md,false
+prod-zy0000000198,pos-catalogue,Al Qamar Jae Namaz,product,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/products/al-qamar-jae-namaz-zy0000000198.md,false
+prod-zy0000000178,pos-catalogue,Almirah Box,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/almirah-box-zy0000000178.md,false
+prod-zy0000000316,pos-catalogue,Alqibla Jae Namaz 70 *110,product,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/products/alqibla-jae-namaz-70-110-zy0000000316.md,false
+prod-zy0000000317,pos-catalogue,Alqibla Jae Namaz 80*120,product,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/products/alqibla-jae-namaz-80-120-zy0000000317.md,false
+prod-zy0000000139,pos-catalogue,American Cloudy,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/american-cloudy-zy0000000139.md,false
+prod-zy0000000165,pos-catalogue,Beauty Forever Cloudy,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/beauty-forever-cloudy-zy0000000165.md,false
+prod-zy0000000307,pos-catalogue,Butterfly Sofa Cover,product,"[en, ur, roman-ur]",sofa_cover,2026-09-26,public,false,data/corpus/products/butterfly-sofa-cover-zy0000000307.md,false
+prod-zy0000000382,pos-catalogue,Chamki Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/chamki-razai-zy0000000382.md,false
+prod-zy0000000022,pos-catalogue,Crystal Double Bed ABC,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/crystal-double-bed-abc-zy0000000022.md,false
+prod-zy0000000006,pos-catalogue,Crystal Gadda,product,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/products/crystal-gadda-zy0000000006.md,false
+prod-zy0000000005,pos-catalogue,Crystal Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/crystal-razai-zy0000000005.md,false
+prod-zy0000000019,pos-catalogue,Curtain,product,"[en, ur, roman-ur]",curtain,2026-09-26,public,false,data/corpus/products/curtain-zy0000000019.md,false
+prod-zy0000000055,pos-catalogue,Cute Baby Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/cute-baby-baby-blanket-zy0000000055.md,false
+prod-zy0000000032,pos-catalogue,Decent Baby Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/decent-baby-baby-blanket-zy0000000032.md,false
+prod-zy0000000082,pos-catalogue,Denzy 4 pcs Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/denzy-4-pcs-bedsheet-zy0000000082.md,false
+prod-zy0000000324,pos-catalogue,Diamond Bedsheet 3 pcs,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/diamond-bedsheet-3-pcs-zy0000000324.md,false
+prod-zy0000000363,pos-catalogue,Diamond Double Bed,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/diamond-double-bed-zy0000000363.md,false
+prod-zy0000000367,pos-catalogue,Diamond Parda,product,"[en, ur, roman-ur]",curtain,2026-09-26,public,false,data/corpus/products/diamond-parda-zy0000000367.md,false
+prod-zy0000000220,pos-catalogue,Disney Teenage Single Bed,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/disney-teenage-single-bed-zy0000000220.md,false
+prod-zy0000000385,pos-catalogue,Double Blanket Bag,product,"[en, ur, roman-ur]",bag,2026-09-26,public,false,data/corpus/products/double-blanket-bag-zy0000000385.md,false
+prod-zy0000000338,pos-catalogue,Double Razi Cover Velvet,product,"[en, ur, roman-ur]",razai_cover,2026-09-26,public,false,data/corpus/products/double-razi-cover-velvet-zy0000000338.md,false
+prod-zy0000000377,pos-catalogue,Dream By ABC Bed Sheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/dream-by-abc-bed-sheet-zy0000000377.md,false
+prod-zy0000000193,pos-catalogue,Elite Home King Size 3 pcs Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/elite-home-king-size-3-pcs-bedsheet-zy0000000193.md,false
+prod-zy0000000126,pos-catalogue,Five Star Cloudy Single,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/five-star-cloudy-single-zy0000000126.md,false
+prod-zy0000000216,pos-catalogue,Flex E Dream 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/flex-e-dream-4-pcs-bed-cover-zy0000000216.md,false
+prod-zy0000000341,pos-catalogue,Fomi Mattress Cover,product,"[en, ur, roman-ur]",mattress_cover,2026-09-26,public,false,data/corpus/products/fomi-mattress-cover-zy0000000341.md,false
+prod-zy0000000375,pos-catalogue,Gol Takiya,product,"[en, ur, roman-ur]",pillow,2026-09-26,public,false,data/corpus/products/gol-takiya-zy0000000375.md,false
+prod-zy0000000244,pos-catalogue,Golden 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/golden-4-pcs-bed-cover-zy0000000244.md,false
+prod-zy0000000206,pos-catalogue,Golden Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/golden-baby-blanket-zy0000000206.md,false
+prod-zy0000000299,pos-catalogue,Golden Beast Box,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/golden-beast-box-zy0000000299.md,false
+prod-zy0000000342,pos-catalogue,Jersey Mattress Cover,product,"[en, ur, roman-ur]",mattress_cover,2026-09-26,public,false,data/corpus/products/jersey-mattress-cover-zy0000000342.md,false
+prod-zy0000000357,pos-catalogue,Jersey Single Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/jersey-single-razai-zy0000000357.md,false
+prod-zy0000000237,pos-catalogue,Lavender 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/lavender-4-pcs-bed-cover-zy0000000237.md,false
+prod-zy0000000012,pos-catalogue,Life Time Gadda,product,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/products/life-time-gadda-zy0000000012.md,false
+prod-zy0000000013,pos-catalogue,Life Time Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/life-time-razai-zy0000000013.md,false
+prod-zy0000000284,pos-catalogue,Master Gadda,product,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/products/master-gadda-zy0000000284.md,false
+prod-zy0000000147,pos-catalogue,Million Gold Cloudy,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/million-gold-cloudy-zy0000000147.md,false
+prod-zy0000000074,pos-catalogue,Morga Gold 4 pcs Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/morga-gold-4-pcs-bedsheet-zy0000000074.md,false
+prod-zy0000000314,pos-catalogue,Motaf Razai Set 14 pcs,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/motaf-razai-set-14-pcs-zy0000000314.md,false
+prod-zy0000000348,pos-catalogue,Motif Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/motif-bedsheet-zy0000000348.md,false
+prod-zy0000000344,pos-catalogue,Multi Mattress Cover,product,"[en, ur, roman-ur]",mattress_cover,2026-09-26,public,false,data/corpus/products/multi-mattress-cover-zy0000000344.md,false
+prod-zy0000000269,pos-catalogue,New Born Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/new-born-baby-blanket-zy0000000269.md,false
+prod-zy0000000001,pos-catalogue,New Sitara Dasterkhawan,product,"[en, ur, roman-ur]",dasterkhawan,2026-09-26,public,false,data/corpus/products/new-sitara-dasterkhawan-zy0000000001.md,false
+prod-zy0000000240,pos-catalogue,Nice Select Cloudy 4 Pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/nice-select-cloudy-4-pcs-bed-cover-zy0000000240.md,false
+prod-zy0000000242,pos-catalogue,Nice Select DG 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/nice-select-dg-4-pcs-bed-cover-zy0000000242.md,false
+prod-zy0000000359,pos-catalogue,Plachi Razai Cover,product,"[en, ur, roman-ur]",razai_cover,2026-09-26,public,false,data/corpus/products/plachi-razai-cover-zy0000000359.md,false
+prod-zy0000000056,pos-catalogue,Pure Lily Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/pure-lily-baby-blanket-zy0000000056.md,false
+prod-zy0000000058,pos-catalogue,Pure Lily Single Bed,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/pure-lily-single-bed-zy0000000058.md,false
+prod-zy0000000396,pos-catalogue,Rashmi Gadda,product,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/products/rashmi-gadda-zy0000000396.md,false
+prod-zy0000000387,pos-catalogue,Razai Set Bag,product,"[en, ur, roman-ur]",bag,2026-09-26,public,false,data/corpus/products/razai-set-bag-zy0000000387.md,false
+prod-zy0000000020,pos-catalogue,Royal King Size Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/royal-king-size-bedsheet-zy0000000020.md,false
+prod-zy0000000016,pos-catalogue,Royal Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/royal-razai-zy0000000016.md,false
+prod-zy0000000318,pos-catalogue,Sami Gold Razai Cover,product,"[en, ur, roman-ur]",razai_cover,2026-09-26,public,false,data/corpus/products/sami-gold-razai-cover-zy0000000318.md,false
+prod-zy0000000029,pos-catalogue,Shapar Plant Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/shapar-plant-razai-zy0000000029.md,false
+prod-zy0000000033,pos-catalogue,Shine Star Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/shine-star-baby-blanket-zy0000000033.md,false
+prod-zy0000000004,pos-catalogue,Sillai Dasterkhawan,product,"[en, ur, roman-ur]",dasterkhawan,2026-09-26,public,false,data/corpus/products/sillai-dasterkhawan-zy0000000004.md,false
+prod-zy0000000192,pos-catalogue,Silver Home King Size 3 pcs Bedsheet,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/silver-home-king-size-3-pcs-bedsheet-zy0000000192.md,false
+prod-zy0000000384,pos-catalogue,Single Blanket Bag,product,"[en, ur, roman-ur]",bag,2026-09-26,public,false,data/corpus/products/single-blanket-bag-zy0000000384.md,false
+prod-zy0000000003,pos-catalogue,Sitara Dasterkhawan,product,"[en, ur, roman-ur]",dasterkhawan,2026-09-26,public,false,data/corpus/products/sitara-dasterkhawan-zy0000000003.md,false
+prod-zy0000000403,pos-catalogue,Sitara Gadda,product,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/products/sitara-gadda-zy0000000403.md,false
+prod-zy0000000031,pos-catalogue,Smart Baby Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/smart-baby-baby-blanket-zy0000000031.md,false
+prod-zy0000000205,pos-catalogue,Smile Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/smile-baby-blanket-zy0000000205.md,false
+prod-zy0000000227,pos-catalogue,Spring Rose Cloudy Double Bed,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/spring-rose-cloudy-double-bed-zy0000000227.md,false
+prod-zy0000000209,pos-catalogue,Super Baby Cloudy Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/super-baby-cloudy-blanket-zy0000000209.md,false
+prod-zy0000000247,pos-catalogue,Super Cloudy DG 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/super-cloudy-dg-4-pcs-bed-cover-zy0000000247.md,false
+prod-zy0000000011,pos-catalogue,Super Razai,product,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/products/super-razai-zy0000000011.md,false
+prod-zy0000000204,pos-catalogue,Sweet Baby Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/sweet-baby-blanket-zy0000000204.md,false
+prod-zy0000000173,pos-catalogue,Tiger Box,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/tiger-box-zy0000000173.md,false
+prod-zy0000000071,pos-catalogue,Turkish 5 pcs Sofa Cover,product,"[en, ur, roman-ur]",sofa_cover,2026-09-26,public,false,data/corpus/products/turkish-5-pcs-sofa-cover-zy0000000071.md,false
+prod-zy0000000238,pos-catalogue,Victory 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/victory-4-pcs-bed-cover-zy0000000238.md,false
+prod-zy0000000226,pos-catalogue,Victory Double Bed Blanket,product,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/products/victory-double-bed-blanket-zy0000000226.md,false
+prod-zy0000000094,pos-catalogue,Welcome Border Double Bed,product,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/products/welcome-border-double-bed-zy0000000094.md,false
+prod-zy0000000239,pos-catalogue,Winner 4 pcs Bed Cover,product,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/products/winner-4-pcs-bed-cover-zy0000000239.md,false
+ship-tracking,owner-draft,Couriers and tracking,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/couriers-and-tracking.md,false
+ship-charges,owner-draft,Delivery charges,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/delivery-charges.md,false
+ship-zones,owner-draft,Delivery zones and timelines,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/delivery-zones-and-timelines.md,false
+ship-late,owner-draft,What if my delivery is late or lost,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/late-or-lost-delivery.md,false
+ship-weights,owner-draft,Typical parcel weights,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/parcel-weights.md,false
+ship-pickup,owner-draft,Shop pickup and same-city delivery,shipping,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/shipping/shop-pickup-and-local-delivery.md,false
+size-baby-blanket,owner-draft,Baby blanket sizes,size_guide,"[en, ur, roman-ur]",baby_blanket,2026-09-26,public,false,data/corpus/size_guides/baby-blanket-sizes.md,false
+size-bed-cover,owner-draft,Bed cover set sizes and contents,size_guide,"[en, ur, roman-ur]",bed_cover,2026-09-26,public,false,data/corpus/size_guides/bed-cover-set-sizes.md,false
+size-bedsheet,owner-draft,Bed sheet sizes,size_guide,"[en, ur, roman-ur]",bed_sheet,2026-09-26,public,false,data/corpus/size_guides/bed-sheet-sizes.md,false
+size-blanket,owner-draft,Blanket sizes (including cloudy blankets),size_guide,"[en, ur, roman-ur]",blanket,2026-09-26,public,false,data/corpus/size_guides/blanket-sizes.md,false
+size-curtain,owner-draft,Curtain (parda) sizes,size_guide,"[en, ur, roman-ur]",curtain,2026-09-26,public,false,data/corpus/size_guides/curtain-sizes.md,false
+size-dasterkhawan,owner-draft,Dasterkhawan sizes,size_guide,"[en, ur, roman-ur]",dasterkhawan,2026-09-26,public,false,data/corpus/size_guides/dasterkhawan-sizes.md,false
+size-gadda,owner-draft,Gadda sizes,size_guide,"[en, ur, roman-ur]",gadda,2026-09-26,public,false,data/corpus/size_guides/gadda-sizes.md,false
+size-how-to-choose,owner-draft,How to choose the right size,size_guide,"[en, ur, roman-ur]",all,2026-09-26,public,false,data/corpus/size_guides/how-to-choose-the-right-size.md,false
+size-jae-namaz,owner-draft,Jae namaz (prayer mat) sizes,size_guide,"[en, ur, roman-ur]",jae_namaz,2026-09-26,public,false,data/corpus/size_guides/jae-namaz-sizes.md,false
+size-mattress-cover,owner-draft,Mattress cover sizes,size_guide,"[en, ur, roman-ur]",mattress_cover,2026-09-26,public,false,data/corpus/size_guides/mattress-cover-sizes.md,false
+size-razai,owner-draft,Razai and razai cover sizes,size_guide,"[en, ur, roman-ur]",razai,2026-09-26,public,false,data/corpus/size_guides/razai-and-razai-cover-sizes.md,false
+size-sofa-cover,owner-draft,Sofa cover and gol takiya sizes,size_guide,"[en, ur, roman-ur]",sofa_cover,2026-09-26,public,false,data/corpus/size_guides/sofa-cover-and-cushion-sizes.md,false
+qa-001,synthetic,Support Q&A: razai cover separate,support_qa,[roman-ur],razai_cover,2026-09-26,public,false,data/corpus/support_qa/qa-001.md,false
+qa-002,synthetic,Support Q&A: double bed sheet size,support_qa,[roman-ur],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-002.md,false
+qa-003,synthetic,Support Q&A: queen bed fit,support_qa,[en],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-003.md,false
+qa-004,synthetic,Support Q&A: cod availability,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-004.md,false
+qa-005,synthetic,Support Q&A: delivery charges karachi,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-005.md,false
+qa-006,synthetic,Support Q&A: return opened sheet,support_qa,[en],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-006.md,false
+qa-007,synthetic,Support Q&A: exchange size,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-007.md,false
+qa-008,synthetic,Support Q&A: cloudy meaning,support_qa,[roman-ur],blanket,2026-09-26,public,false,data/corpus/support_qa/qa-008.md,false
+qa-009,synthetic,Support Q&A: razai urdu price,support_qa,[ur],razai,2026-09-26,public,false,data/corpus/support_qa/qa-009.md,false
+qa-010,synthetic,Support Q&A: jae namaz bulk,support_qa,[roman-ur],jae_namaz,2026-09-26,public,false,data/corpus/support_qa/qa-010.md,false
+qa-011,synthetic,Support Q&A: late parcel,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-011.md,false
+qa-012,synthetic,Support Q&A: missing pillow cover,support_qa,[roman-ur],bed_cover,2026-09-26,public,false,data/corpus/support_qa/qa-012.md,false
+qa-013,synthetic,Support Q&A: wash cloudy,support_qa,[en],blanket,2026-09-26,public,false,data/corpus/support_qa/qa-013.md,false
+qa-014,synthetic,Support Q&A: razai wash,support_qa,[roman-ur],razai,2026-09-26,public,false,data/corpus/support_qa/qa-014.md,false
+qa-015,synthetic,Support Q&A: gadda thickness,support_qa,[roman-ur],gadda,2026-09-26,public,false,data/corpus/support_qa/qa-015.md,false
+qa-016,synthetic,Support Q&A: cancel after dispatch,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-016.md,false
+qa-017,synthetic,Support Q&A: refund cod,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-017.md,false
+qa-018,synthetic,Support Q&A: velvet summer,support_qa,[roman-ur],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-018.md,false
+qa-019,synthetic,Support Q&A: silk real,support_qa,[en],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-019.md,false
+qa-020,synthetic,Support Q&A: king size fit 6ft,support_qa,[roman-ur],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-020.md,false
+qa-021,synthetic,Support Q&A: shop timing,support_qa,[ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-021.md,false
+qa-022,synthetic,Support Q&A: damaged parcel,support_qa,[roman-ur],bed_sheet,2026-09-26,public,false,data/corpus/support_qa/qa-022.md,false
+qa-023,synthetic,Support Q&A: baby blanket size,support_qa,[roman-ur],blanket,2026-09-26,public,false,data/corpus/support_qa/qa-023.md,false
+qa-024,synthetic,Support Q&A: stock back,support_qa,[roman-ur],blanket,2026-09-26,public,false,data/corpus/support_qa/qa-024.md,false
+qa-025,synthetic,Support Q&A: easypaisa advance,support_qa,[roman-ur],all,2026-09-26,public,false,data/corpus/support_qa/qa-025.md,false

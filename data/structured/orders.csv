@@ -1,0 +1,201 @@
+order_id,customer_id,visibility,order_date,status,items,subtotal,delivery_charge,total,payment_method,city,zone,tracking_number
+ZY-26001,C0035,customer:C0035,2026-06-16,cancelled,zy0000000042 x1 (White Cloudy); zy0000000245 x1 (Bloom Petal DG 4 pcs Bed Cover),24200,0,24200,cod,Peshawar,B,
+ZY-26002,C0046,customer:C0046,2026-06-09,delivered,zy0000000347 x1 (Cotton Bedsheet Double),2250,250,2500,jazzcash,Gujranwala,B,TCS4673561638
+ZY-26003,C0056,customer:C0056,2026-06-13,delivered,zy0000000298 x1 (Camary Box); zy0000000383 x1 (Asli Pari Velvet),22900,0,22900,cod,Peshawar,B,TCS3783290795
+ZY-26004,C0039,customer:C0039,2026-08-21,delivered,zy0000000135 x2 (Saffron Blanket); zy0000000082 x1 (Denzy 4 pcs Bedsheet); zy0000000216 x1 (Flex E Dream 4 pcs Bed Cover),34900,400,35300,bank_transfer,Turbat,D,TCS4332894265
+ZY-26005,C0015,customer:C0015,2026-09-14,delivered,zy0000000196 x1 (Blue Bell Double Blanket),5600,250,5850,cod,Mardan,C,TCS8378385615
+ZY-26006,C0014,customer:C0014,2026-08-23,delivered,zy0000000215 x1 (Soft Sherpa Single Bed); zy0000000077 x1 (Trendy Cloudy 4 pcs Bedsheet); zy0000000142 x1 (Euro Cloudy),25100,0,25100,bank_transfer,Islamabad,B,TCS7801222128
+ZY-26007,C0024,customer:C0024,2026-06-29,cancelled,zy0000000228 x2 (New Age Double Bed Blanket),12000,0,12000,cod,Lahore,B,
+ZY-26008,C0004,customer:C0004,2026-09-19,dispatched,zy0000000081 x2 (Blue Berry 4 pcs Bedsheet); zy0000000356 x1 (Cotton Karandi Gadda); zy0000000311 x2 (Vicky Razai Double Malai 14 Pcs),64500,400,64900,cod_with_advance,Gilgit,D,TCS9573276057
+ZY-26009,C0034,customer:C0034,2026-07-03,cancelled,zy0000000311 x1 (Vicky Razai Double Malai 14 Pcs),16500,0,16500,bank_transfer,Mardan,C,
+ZY-26010,C0035,customer:C0035,2026-09-05,delivered,zy0000000180 x2 (True Love Box); zy0000000062 x1 (Knowledge Single Bed); zy0000000167 x2 (King Eskimo Blanket),56200,0,56200,cod_with_advance,Peshawar,B,TCS8385972235
+ZY-26011,C0033,customer:C0033,2026-09-06,delivered,zy0000000412 x1 (Vicky Razai Double Bed),3600,250,3850,easypaisa,Bahawalpur,C,TCS1854316681
+ZY-26012,C0024,customer:C0024,2026-09-06,delivered,zy0000000001 x1 (New Sitara Dasterkhawan); zy0000000284 x2 (Master Gadda),3500,250,3750,cod,Lahore,B,TCS9285415473
+ZY-26013,C0057,customer:C0057,2026-09-15,delivered,zy0000000027 x1 (King Eskimo Double Bed),10000,400,10400,easypaisa,Turbat,D,TCS5067116918
+ZY-26014,C0006,customer:C0006,2026-09-02,delivered,zy0000000344 x1 (Multi Mattress Cover),1300,250,1550,cod,Sialkot,B,TCS3361388464
+ZY-26015,C0017,customer:C0017,2026-08-07,returned,zy0000000102 x1 (Fortune Double Bed); zy0000000242 x1 (Nice Select DG 4 pcs Bed Cover),15300,0,15300,cod,Karachi,B,TCS6898796145
+ZY-26016,C0058,customer:C0058,2026-08-06,delivered,zy0000000106 x1 (Sun Set Double Bed),3200,250,3450,cod,Karachi,B,TCS1945826486
+ZY-26017,C0005,customer:C0005,2026-08-30,delivered,zy0000000031 x1 (Smart Baby Baby Blanket),1350,250,1600,easypaisa,Peshawar,B,TCS9894264595
+ZY-26018,C0016,customer:C0016,2026-07-06,delivered,zy0000000242 x1 (Nice Select DG 4 pcs Bed Cover),12200,0,12200,bank_transfer,Sargodha,C,TCS7769777475
+ZY-26019,C0016,customer:C0016,2026-09-09,delivered,zy0000000092 x1 (Treasure Double Bed); zy0000000058 x2 (Pure Lily Single Bed),6850,250,7100,cod,Sargodha,C,TCS7060638140
+ZY-26020,C0056,customer:C0056,2026-09-02,delivered,zy0000000301 x2 (Stylo Box); zy0000000059 x1 (Spring Single Bed); zy0000000029 x1 (Shapar Plant Razai),36300,0,36300,cod_with_advance,Peshawar,B,TCS2926780541
+ZY-26021,C0028,customer:C0028,2026-06-24,delivered,zy0000000415 x1 (Kat Moti Velvet),5000,250,5250,cod,Sukkur,C,TCS3363629219
+ZY-26022,C0004,customer:C0004,2026-08-23,cancelled,zy0000000057 x1 (Cozeecoo Baby Blanket),2260,400,2660,cod,Gilgit,D,
+ZY-26023,C0032,customer:C0032,2026-08-01,delivered,zy0000000029 x2 (Shapar Plant Razai); zy0000000085 x1 (Unique Blanket),12900,0,12900,jazzcash,Sialkot,B,TCS7249213370
+ZY-26024,C0028,customer:C0028,2026-08-29,cancelled,zy0000000306 x2 (Denzy Box); zy0000000326 x1 (Velvet Print 4 Pile),32800,0,32800,cod_with_advance,Sukkur,C,
+ZY-26025,C0014,customer:C0014,2026-06-08,delivered,zy0000000029 x1 (Shapar Plant Razai); zy0000000340 x1 (Digital Print Velvet),10000,0,10000,cod,Islamabad,B,TCS3281169403
+ZY-26026,C0004,customer:C0004,2026-08-05,delivered,zy0000000031 x1 (Smart Baby Baby Blanket),1350,400,1750,bank_transfer,Gilgit,D,TCS6305160342
+ZY-26027,C0008,customer:C0008,2026-09-22,delivered,zy0000000283 x1 (Bridal Razai Set 9 pcs); zy0000000017 x2 (Royal Gadda),12000,0,12000,bank_transfer,Faisalabad,B,TCS2119980130
+ZY-26028,C0043,customer:C0043,2026-08-31,delivered,zy0000000195 x1 (Silky Thread Double Bed Blanket),4500,250,4750,bank_transfer,Quetta,B,TCS6583444930
+ZY-26029,C0021,customer:C0021,2026-09-05,refused,zy0000000215 x1 (Soft Sherpa Single Bed),3800,250,4050,cod,Sialkot,B,TCS2139027119
+ZY-26030,C0060,customer:C0060,2026-07-15,returned,zy0000000187 x1 (Camary New Box),16600,0,16600,cod,Bahawalpur,C,TCS8316648259
+ZY-26031,C0040,customer:C0040,2026-09-12,delivered,zy0000000307 x1 (Butterfly Sofa Cover),3500,250,3750,jazzcash,Multan,B,TCS4771526597
+ZY-26032,C0017,customer:C0017,2026-06-15,returned,zy0000000245 x1 (Bloom Petal DG 4 pcs Bed Cover); zy0000000080 x1 (Cutify 4 pcs Bedsheet); zy0000000146 x1 (Amazon Gold USA Cloudy),37200,0,37200,cod_with_advance,Karachi,B,TCS7393195616
+ZY-26033,C0058,customer:C0058,2026-09-25,pending_confirmation,zy0000000298 x2 (Camary Box),31800,0,31800,easypaisa,Karachi,B,
+ZY-26034,C0003,customer:C0003,2026-06-01,delivered,zy0000000299 x1 (Golden Beast Box),15900,0,15900,cod,Lahore,B,TCS8325785916
+ZY-26035,C0036,customer:C0036,2026-06-02,delivered,zy0000000079 x1 (Morga Gold Cloudy 4 pcs); zy0000000243 x1 (Black Rose 4 pcs Bed Cover); zy0000000016 x2 (Royal Razai),30900,400,31300,cod_with_advance,Turbat,D,TCS6618926823
+ZY-26036,C0058,customer:C0058,2026-09-10,cancelled,zy0000000184 x1 (Marriage Night Box),14700,0,14700,bank_transfer,Karachi,B,
+ZY-26037,C0043,customer:C0043,2026-06-14,delivered,zy0000000415 x1 (Kat Moti Velvet); zy0000000198 x1 (Al Qamar Jae Namaz),5650,250,5900,easypaisa,Quetta,B,TCS4482238042
+ZY-26038,C0057,customer:C0057,2026-07-23,delivered,zy0000000178 x1 (Almirah Box); zy0000000354 x1 (Fomi Razai); zy0000000199 x1 (Al Maqam Jae Namaz),17400,400,17800,bank_transfer,Turbat,D,TCS5759234471
+ZY-26039,C0056,customer:C0056,2026-06-05,returned,zy0000000095 x2 (Kindle Vella Double Bed),5800,250,6050,cod,Peshawar,B,TCS4742303947
+ZY-26040,C0015,customer:C0015,2026-06-04,delivered,zy0000000177 x1 (Korea Tax Box); zy0000000149 x1 (Vision Cloudy),21100,0,21100,cod,Mardan,C,TCS7482848011
+ZY-26041,C0044,customer:C0044,2026-09-16,delivered,zy0000000070 x1 (Good Night 3 pcs Bedsheets),6700,250,6950,cod,Peshawar,B,TCS2140169349
+ZY-26042,C0007,customer:C0007,2026-08-16,delivered,zy0000000355 x1 (Fancy Bedsheet Raad); zy0000000172 x2 (Korea Tax Poly Bag); zy0000000205 x1 (Smile Baby Blanket),31500,0,31500,cod_with_advance,Sialkot,B,TCS8339176912
+ZY-26043,C0001,customer:C0001,2026-08-06,refused,zy0000000312 x1 (Comforter Razai Set 14 Pcs); zy0000000327 x1 (Print Velvet PK),20200,0,20200,cod,Sukkur,C,TCS9249648005
+ZY-26044,C0040,customer:C0040,2026-07-11,delivered,zy0000000327 x1 (Print Velvet PK),3700,250,3950,cod,Multan,B,TCS8159250505
+ZY-26045,C0021,customer:C0021,2026-07-22,delivered,zy0000000073 x2 (Pure Lily 4 pcs Bedsheet); zy0000000093 x2 (Welcome Without Border Double Bed),21400,0,21400,bank_transfer,Sialkot,B,TCS4877520294
+ZY-26046,C0040,customer:C0040,2026-08-12,delivered,zy0000000383 x1 (Asli Pari Velvet); zy0000000001 x1 (New Sitara Dasterkhawan),7900,250,8150,cod,Multan,B,TCS6679017210
+ZY-26047,C0029,customer:C0029,2026-07-27,delivered,zy0000000219 x1 (Accurate Single Bed); zy0000000357 x1 (Jersey Single Razai),6300,250,6550,cod,Dera Ghazi Khan,C,TCS7954672204
+ZY-26048,C0006,customer:C0006,2026-09-13,cancelled,zy0000000309 x1 (Vicky Razai Set 14 pcs),11200,0,11200,cod,Sialkot,B,
+ZY-26049,C0013,customer:C0013,2026-06-19,delivered,zy0000000219 x1 (Accurate Single Bed),4500,250,4750,cod,Sheikhupura,C,TCS3472487690
+ZY-26050,C0046,customer:C0046,2026-08-29,delivered,zy0000000135 x1 (Saffron Blanket); zy0000000078 x1 (Favorite 4 pcs Bedsheet),20700,0,20700,bank_transfer,Gujranwala,B,TCS1939915527
+ZY-26051,C0052,customer:C0052,2026-08-29,delivered,zy0000000246 x1 (Super Cloudy 4 pcs Bed Cover),14300,0,14300,jazzcash,Rawalpindi,B,TCS5816198518
+ZY-26052,C0009,customer:C0009,2026-09-11,delivered,zy0000000247 x1 (Super Cloudy DG 4 pcs Bed Cover); zy0000000283 x2 (Bridal Razai Set 9 pcs),34700,400,35100,bank_transfer,Gilgit,D,TCS7462972995
+ZY-26053,C0054,customer:C0054,2026-09-25,confirmed,zy0000000339 x2 (Copper Tila Sitari Velvet),10800,0,10800,cod,Sahiwal,C,
+ZY-26054,C0049,customer:C0049,2026-07-02,delivered,zy0000000346 x2 (Cotton Bedsheet Single),4700,250,4950,bank_transfer,Rawalpindi,B,TCS6474354351
+ZY-26055,C0005,customer:C0005,2026-08-31,delivered,zy0000000178 x1 (Almirah Box),12500,0,12500,easypaisa,Peshawar,B,TCS1346078411
+ZY-26056,C0010,customer:C0010,2026-06-30,delivered,zy0000000318 x1 (Sami Gold Razai Cover),3500,250,3750,cod,Rawalpindi,B,TCS7045593274
+ZY-26057,C0035,customer:C0035,2026-07-30,delivered,zy0000000383 x2 (Asli Pari Velvet),14000,0,14000,cod,Peshawar,B,TCS7767538527
+ZY-26058,C0031,customer:C0031,2026-06-01,refused,zy0000000341 x2 (Fomi Mattress Cover),3600,250,3850,easypaisa,Sargodha,C,TCS6242173772
+ZY-26059,C0015,customer:C0015,2026-07-05,delivered,zy0000000193 x1 (Elite Home King Size 3 pcs Bedsheet),2000,250,2250,bank_transfer,Mardan,C,TCS8722962486
+ZY-26060,C0047,customer:C0047,2026-06-22,delivered,zy0000000295 x1 (Beauty Forever Box),17400,400,17800,jazzcash,Skardu,D,TCS3847562279
+ZY-26061,C0006,customer:C0006,2026-08-22,delivered,zy0000000090 x1 (Sky Blue Double Bed); zy0000000020 x2 (Royal King Size Bedsheet),4800,250,5050,cod,Sialkot,B,TCS7247886041
+ZY-26062,C0022,customer:C0022,2026-09-06,returned,zy0000000341 x2 (Fomi Mattress Cover),3600,250,3850,cod,Kasur,C,TCS5646751885
+ZY-26063,C0002,customer:C0002,2026-09-04,delivered,zy0000000106 x1 (Sun Set Double Bed),3200,250,3450,bank_transfer,Rawalpindi,B,TCS3799264931
+ZY-26064,C0049,customer:C0049,2026-06-04,refused,zy0000000384 x1 (Single Blanket Bag),150,250,400,bank_transfer,Rawalpindi,B,TCS2024542722
+ZY-26065,C0031,customer:C0031,2026-08-25,delivered,zy0000000217 x1 (Miami Dream Single Bed),4000,250,4250,bank_transfer,Sargodha,C,TCS4518871744
+ZY-26066,C0020,customer:C0020,2026-06-14,delivered,zy0000000252 x2 (Baby Perla Gold Baby Blanket Small),7800,250,8050,cod,Gujranwala,B,TCS4070964768
+ZY-26067,C0005,customer:C0005,2026-08-15,delivered,zy0000000135 x1 (Saffron Blanket); zy0000000060 x1 (Feeling Single Bed); zy0000000316 x1 (Alqibla Jae Namaz 70 *110),12850,0,12850,cod,Peshawar,B,TCS2591589823
+ZY-26068,C0033,customer:C0033,2026-08-22,delivered,zy0000000379 x1 (Jersi Razai); zy0000000223 x2 (Burjjan Single Bed),15500,0,15500,jazzcash,Bahawalpur,C,TCS8854238082
+ZY-26069,C0046,customer:C0046,2026-06-20,delivered,zy0000000237 x2 (Lavender 4 pcs Bed Cover); zy0000000302 x2 (Florence Cloudy); zy0000000146 x2 (Amazon Gold USA Cloudy),52600,0,52600,easypaisa,Gujranwala,B,TCS7839626408
+ZY-26070,C0021,customer:C0021,2026-09-18,dispatched,zy0000000149 x2 (Vision Cloudy),17200,0,17200,cod,Sialkot,B,TCS6922713963
+ZY-26071,C0002,customer:C0002,2026-08-03,returned,zy0000000222 x1 (Super Select Single Bed),5600,250,5850,cod,Rawalpindi,B,TCS6404582459
+ZY-26072,C0018,customer:C0018,2026-09-21,delivered,zy0000000246 x1 (Super Cloudy 4 pcs Bed Cover),14300,0,14300,cod,Lahore,B,TCS1820581106
+ZY-26073,C0016,customer:C0016,2026-09-01,delivered,zy0000000344 x2 (Multi Mattress Cover); zy0000000134 x2 (Lori Blanket),16200,0,16200,cod,Sargodha,C,TCS1074059253
+ZY-26074,C0019,customer:C0019,2026-06-29,delivered,zy0000000170 x1 (Mimosa Box),10900,0,10900,cod,Islamabad,B,TCS7575259637
+ZY-26075,C0028,customer:C0028,2026-09-04,delivered,zy0000000317 x2 (Alqibla Jae Namaz 80*120),1700,250,1950,cod,Sukkur,C,TCS2079770569
+ZY-26076,C0008,customer:C0008,2026-09-01,delivered,zy0000000339 x1 (Copper Tila Sitari Velvet),5400,250,5650,cod,Faisalabad,B,TCS8467250120
+ZY-26077,C0018,customer:C0018,2026-09-01,delivered,zy0000000283 x1 (Bridal Razai Set 9 pcs); zy0000000150 x1 (Penguin Cloudy),18100,0,18100,cod,Lahore,B,TCS2549972386
+ZY-26078,C0020,customer:C0020,2026-06-02,delivered,zy0000000147 x1 (Million Gold Cloudy),8500,250,8750,jazzcash,Gujranwala,B,TCS7671625956
+ZY-26079,C0045,customer:C0045,2026-06-17,delivered,zy0000000060 x1 (Feeling Single Bed); zy0000000415 x1 (Kat Moti Velvet),10000,0,10000,cod,Faisalabad,B,TCS7186766399
+ZY-26080,C0012,customer:C0012,2026-06-07,delivered,zy0000000070 x1 (Good Night 3 pcs Bedsheets); zy0000000379 x2 (Jersi Razai),11300,400,11700,cod,Gilgit,D,TCS3948284698
+ZY-26081,C0010,customer:C0010,2026-06-20,delivered,zy0000000055 x1 (Cute Baby Baby Blanket),1460,250,1710,cod,Rawalpindi,B,TCS8578226896
+ZY-26082,C0039,customer:C0039,2026-08-16,delivered,zy0000000348 x2 (Motif Bedsheet),7000,400,7400,cod,Turbat,D,TCS7196439534
+ZY-26083,C0056,customer:C0056,2026-08-15,cancelled,zy0000000250 x1 (UNO-1 4 pcs Bed Cover),20000,0,20000,bank_transfer,Peshawar,B,
+ZY-26084,C0048,customer:C0048,2026-06-13,refused,zy0000000296 x1 (Dollar Box),15000,0,15000,cod,Quetta,B,TCS1348697524
+ZY-26085,C0016,customer:C0016,2026-06-23,delivered,zy0000000001 x2 (New Sitara Dasterkhawan),1800,250,2050,cod,Sargodha,C,TCS7845366946
+ZY-26086,C0019,customer:C0019,2026-06-05,delivered,zy0000000150 x2 (Penguin Cloudy); zy0000000317 x1 (Alqibla Jae Namaz 80*120); zy0000000403 x1 (Sitara Gadda),19100,0,19100,jazzcash,Islamabad,B,TCS5010075517
+ZY-26087,C0028,customer:C0028,2026-06-15,delivered,zy0000000079 x1 (Morga Gold Cloudy 4 pcs); zy0000000143 x1 (Dollar Cloudy); zy0000000381 x1 (Emboss Razai),24900,0,24900,cod,Sukkur,C,TCS6534540349
+ZY-26088,C0008,customer:C0008,2026-07-30,delivered,zy0000000197 x2 (Select One Double Bed Blanket); zy0000000146 x2 (Amazon Gold USA Cloudy); zy0000000226 x1 (Victory Double Bed Blanket),33800,0,33800,cod_with_advance,Faisalabad,B,TCS9115009532
+ZY-26089,C0048,customer:C0048,2026-07-12,delivered,zy0000000057 x1 (Cozeecoo Baby Blanket),2260,250,2510,jazzcash,Quetta,B,TCS5083595988
+ZY-26090,C0049,customer:C0049,2026-08-26,delivered,zy0000000017 x1 (Royal Gadda); zy0000000345 x2 (Fomi Bedsheet),6250,250,6500,cod,Rawalpindi,B,TCS2194673401
+ZY-26091,C0038,customer:C0038,2026-07-26,delivered,zy0000000057 x1 (Cozeecoo Baby Blanket); zy0000000218 x2 (Arizona Dream Single Bed),10860,400,11260,cod,Skardu,D,TCS3878201524
+ZY-26092,C0055,customer:C0055,2026-06-21,delivered,zy0000000224 x2 (Precious Pearl Double Bed); zy0000000165 x1 (Beauty Forever Cloudy); zy0000000306 x2 (Denzy Box),46200,0,46200,cod_with_advance,Abbottabad,C,TCS6379012098
+ZY-26093,C0008,customer:C0008,2026-09-07,delivered,zy0000000381 x2 (Emboss Razai); zy0000000001 x2 (New Sitara Dasterkhawan),7000,250,7250,cod,Faisalabad,B,TCS7521647547
+ZY-26094,C0040,customer:C0040,2026-09-05,delivered,zy0000000344 x1 (Multi Mattress Cover); zy0000000022 x1 (Crystal Double Bed ABC),2300,250,2550,cod,Multan,B,TCS9279291478
+ZY-26095,C0029,customer:C0029,2026-09-21,delivered,zy0000000012 x1 (Life Time Gadda),1250,250,1500,bank_transfer,Dera Ghazi Khan,C,TCS9648665968
+ZY-26096,C0027,customer:C0027,2026-06-12,delivered,zy0000000216 x1 (Flex E Dream 4 pcs Bed Cover),6000,250,6250,bank_transfer,Dera Ghazi Khan,C,TCS5956268238
+ZY-26097,C0060,customer:C0060,2026-08-31,delivered,zy0000000146 x2 (Amazon Gold USA Cloudy); zy0000000200 x2 (Al Tazkiya Jae Namaz); zy0000000383 x1 (Asli Pari Velvet),25500,0,25500,cod_with_advance,Bahawalpur,C,TCS5916199809
+ZY-26098,C0013,customer:C0013,2026-09-26,pending_confirmation,zy0000000147 x2 (Million Gold Cloudy),17000,0,17000,cod,Sheikhupura,C,
+ZY-26099,C0051,customer:C0051,2026-08-04,delivered,zy0000000150 x1 (Penguin Cloudy),8600,250,8850,easypaisa,Okara,C,TCS8129391249
+ZY-26100,C0056,customer:C0056,2026-06-20,delivered,zy0000000181 x2 (Crown Box); zy0000000178 x2 (Almirah Box),54200,0,54200,jazzcash,Peshawar,B,TCS4734910807
+ZY-26101,C0045,customer:C0045,2026-07-01,delivered,zy0000000399 x2 (Divine Double Bed),9000,250,9250,cod,Faisalabad,B,TCS8493451569
+ZY-26102,C0046,customer:C0046,2026-09-25,confirmed,zy0000000306 x1 (Denzy Box); zy0000000356 x2 (Cotton Karandi Gadda),19500,0,19500,jazzcash,Gujranwala,B,
+ZY-26103,C0009,customer:C0009,2026-08-04,cancelled,zy0000000412 x1 (Vicky Razai Double Bed),3600,400,4000,easypaisa,Gilgit,D,
+ZY-26104,C0029,customer:C0029,2026-06-13,delivered,zy0000000005 x1 (Crystal Razai); zy0000000327 x2 (Print Velvet PK),9200,250,9450,easypaisa,Dera Ghazi Khan,C,TCS5165932723
+ZY-26105,C0005,customer:C0005,2026-07-31,delivered,zy0000000179 x2 (Purple Moon Box),29200,0,29200,bank_transfer,Peshawar,B,TCS8953271391
+ZY-26106,C0055,customer:C0055,2026-08-26,returned,zy0000000173 x2 (Tiger Box); zy0000000296 x1 (Dollar Box),39600,0,39600,bank_transfer,Abbottabad,C,TCS5683143581
+ZY-26107,C0007,customer:C0007,2026-09-06,delivered,zy0000000207 x1 (Sweet Baby Blanket Small),2000,250,2250,bank_transfer,Sialkot,B,TCS4880176825
+ZY-26108,C0003,customer:C0003,2026-07-12,delivered,zy0000000184 x1 (Marriage Night Box),14700,0,14700,cod,Lahore,B,TCS1773338452
+ZY-26109,C0012,customer:C0012,2026-06-11,delivered,zy0000000294 x1 (Tajmahal Box); zy0000000311 x2 (Vicky Razai Double Malai 14 Pcs),50000,400,50400,jazzcash,Gilgit,D,TCS1614685938
+ZY-26110,C0030,customer:C0030,2026-08-21,delivered,zy0000000307 x1 (Butterfly Sofa Cover),3500,250,3750,easypaisa,Sheikhupura,C,TCS3347621138
+ZY-26111,C0005,customer:C0005,2026-07-27,refused,zy0000000168 x2 (Mimosa Poly Bag); zy0000000299 x1 (Golden Beast Box),34900,0,34900,cod_with_advance,Peshawar,B,TCS2297602688
+ZY-26112,C0025,customer:C0025,2026-09-18,delivered,zy0000000190 x1 (3 Pcs Poly Bag),6800,250,7050,cod,Sheikhupura,C,TCS2268006448
+ZY-26113,C0054,customer:C0054,2026-08-24,delivered,zy0000000248 x1 (Black Rose 12 pcs Bed Cover),17800,0,17800,jazzcash,Sahiwal,C,TCS8495457335
+ZY-26114,C0054,customer:C0054,2026-09-24,packed,zy0000000288 x1 (Queen Box),16000,0,16000,cod,Sahiwal,C,
+ZY-26115,C0013,customer:C0013,2026-08-19,delivered,zy0000000346 x1 (Cotton Bedsheet Single); zy0000000305 x1 (Trendy Cloudy Box); zy0000000311 x1 (Vicky Razai Double Malai 14 Pcs),32350,0,32350,cod_with_advance,Sheikhupura,C,TCS2893321208
+ZY-26116,C0038,customer:C0038,2026-07-17,delivered,zy0000000167 x1 (King Eskimo Blanket),10700,400,11100,bank_transfer,Skardu,D,TCS1754368373
+ZY-26117,C0009,customer:C0009,2026-09-09,delivered,zy0000000239 x1 (Winner 4 pcs Bed Cover),11000,400,11400,easypaisa,Gilgit,D,TCS8758809005
+ZY-26118,C0048,customer:C0048,2026-09-20,dispatched,zy0000000217 x1 (Miami Dream Single Bed),4000,250,4250,cod,Quetta,B,TCS5151086814
+ZY-26119,C0056,customer:C0056,2026-08-26,delivered,zy0000000387 x1 (Razai Set Bag); zy0000000363 x1 (Diamond Double Bed),2150,250,2400,bank_transfer,Peshawar,B,TCS5354747485
+ZY-26120,C0035,customer:C0035,2026-06-16,delivered,zy0000000340 x2 (Digital Print Velvet); zy0000000309 x1 (Vicky Razai Set 14 pcs); zy0000000142 x1 (Euro Cloudy),29200,0,29200,bank_transfer,Peshawar,B,TCS3024977737
+ZY-26121,C0040,customer:C0040,2026-09-22,cancelled,zy0000000289 x1 (Suiltani Box),16000,0,16000,bank_transfer,Multan,B,
+ZY-26122,C0041,customer:C0041,2026-09-14,delivered,zy0000000169 x1 (King Eskimo 4 pcs Box); zy0000000302 x1 (Florence Cloudy); zy0000000198 x1 (Al Qamar Jae Namaz),19550,0,19550,jazzcash,Dera Ghazi Khan,C,TCS3115806625
+ZY-26123,C0007,customer:C0007,2026-07-01,returned,zy0000000193 x2 (Elite Home King Size 3 pcs Bedsheet),4000,250,4250,cod,Sialkot,B,TCS7615076397
+ZY-26124,C0038,customer:C0038,2026-09-04,delivered,zy0000000304 x2 (Korea Touch Box); zy0000000059 x2 (Spring Single Bed),29000,400,29400,jazzcash,Skardu,D,TCS2201474778
+ZY-26125,C0045,customer:C0045,2026-07-18,delivered,zy0000000128 x1 (Divine Double Blanket); zy0000000396 x1 (Rashmi Gadda),6000,250,6250,jazzcash,Faisalabad,B,TCS8064477344
+ZY-26126,C0004,customer:C0004,2026-07-21,delivered,zy0000000395 x2 (Malai Bedsheet),17000,400,17400,cod,Gilgit,D,TCS5170814022
+ZY-26127,C0004,customer:C0004,2026-09-09,delivered,zy0000000355 x1 (Fancy Bedsheet Raad),6000,400,6400,cod,Gilgit,D,TCS4735313433
+ZY-26128,C0022,customer:C0022,2026-09-08,delivered,zy0000000001 x1 (New Sitara Dasterkhawan); zy0000000147 x1 (Million Gold Cloudy),9400,250,9650,cod,Kasur,C,TCS4429590757
+ZY-26129,C0008,customer:C0008,2026-08-24,returned,zy0000000005 x1 (Crystal Razai),1800,250,2050,bank_transfer,Faisalabad,B,TCS2390587865
+ZY-26130,C0012,customer:C0012,2026-07-04,delivered,zy0000000201 x1 (Perfection 4 pcs Bed Cover); zy0000000238 x2 (Victory 4 pcs Bed Cover); zy0000000070 x2 (Good Night 3 pcs Bedsheets),46900,400,47300,bank_transfer,Gilgit,D,TCS5763350700
+ZY-26131,C0033,customer:C0033,2026-06-29,refused,zy0000000332 x1 (Shapper Plant 4 Pile Velvet),5500,250,5750,cod,Bahawalpur,C,TCS5140460939
+ZY-26132,C0004,customer:C0004,2026-08-01,delivered,zy0000000312 x2 (Comforter Razai Set 14 Pcs); zy0000000061 x2 (Smart Cloudy Single Bed),47000,400,47400,cod_with_advance,Gilgit,D,TCS5641959772
+ZY-26133,C0039,customer:C0039,2026-06-19,delivered,zy0000000295 x1 (Beauty Forever Box),17400,400,17800,cod,Turbat,D,TCS6561543484
+ZY-26134,C0033,customer:C0033,2026-08-17,delivered,zy0000000070 x1 (Good Night 3 pcs Bedsheets); zy0000000396 x2 (Rashmi Gadda); zy0000000304 x2 (Korea Touch Box),31100,0,31100,easypaisa,Bahawalpur,C,TCS7072283057
+ZY-26135,C0053,customer:C0053,2026-07-29,delivered,zy0000000058 x1 (Pure Lily Single Bed); zy0000000172 x1 (Korea Tax Poly Bag); zy0000000203 x1 (Al Falah Jae Namaz),14600,0,14600,jazzcash,Sahiwal,C,TCS3036965074
+ZY-26136,C0006,customer:C0006,2026-09-15,delivered,zy0000000058 x1 (Pure Lily Single Bed); zy0000000339 x1 (Copper Tila Sitari Velvet),7400,250,7650,cod,Sialkot,B,TCS5819946657
+ZY-26137,C0023,customer:C0023,2026-09-20,delivered,zy0000000412 x1 (Vicky Razai Double Bed); zy0000000327 x1 (Print Velvet PK),7300,250,7550,bank_transfer,Abbottabad,C,TCS2510308881
+ZY-26138,C0037,customer:C0037,2026-08-04,delivered,zy0000000221 x1 (Super Cloudy Single Bed); zy0000000106 x1 (Sun Set Double Bed); zy0000000387 x1 (Razai Set Bag),9050,250,9300,cod,Lahore,B,TCS3391179068
+ZY-26139,C0039,customer:C0039,2026-08-24,delivered,zy0000000012 x1 (Life Time Gadda),1250,400,1650,cod,Turbat,D,TCS8569491238
+ZY-26140,C0059,customer:C0059,2026-07-14,delivered,zy0000000412 x1 (Vicky Razai Double Bed),3600,400,4000,cod,Gilgit,D,TCS2721355673
+ZY-26141,C0010,customer:C0010,2026-09-03,delivered,zy0000000057 x1 (Cozeecoo Baby Blanket),2260,250,2510,cod,Rawalpindi,B,TCS7243361127
+ZY-26142,C0011,customer:C0011,2026-07-18,delivered,zy0000000348 x1 (Motif Bedsheet),3500,250,3750,easypaisa,Larkana,C,TCS1668210614
+ZY-26143,C0049,customer:C0049,2026-08-19,delivered,zy0000000146 x2 (Amazon Gold USA Cloudy),17000,0,17000,bank_transfer,Rawalpindi,B,TCS7193532615
+ZY-26144,C0018,customer:C0018,2026-06-28,delivered,zy0000000181 x2 (Crown Box),29200,0,29200,cod_with_advance,Lahore,B,TCS7842459488
+ZY-26145,C0034,customer:C0034,2026-08-25,delivered,zy0000000195 x1 (Silky Thread Double Bed Blanket),4500,250,4750,cod,Mardan,C,TCS6392415228
+ZY-26146,C0021,customer:C0021,2026-06-16,delivered,zy0000000204 x2 (Sweet Baby Blanket); zy0000000087 x1 (Pure Lily Blanket); zy0000000074 x1 (Morga Gold 4 pcs Bedsheet),16700,0,16700,cod,Sialkot,B,TCS5476654128
+ZY-26147,C0002,customer:C0002,2026-07-29,refused,zy0000000252 x2 (Baby Perla Gold Baby Blanket Small),7800,250,8050,cod,Rawalpindi,B,TCS7088949191
+ZY-26148,C0008,customer:C0008,2026-07-22,delivered,zy0000000086 x2 (Lousi Dream Blanket),7000,250,7250,easypaisa,Faisalabad,B,TCS9245348297
+ZY-26149,C0006,customer:C0006,2026-07-26,delivered,zy0000000205 x2 (Smile Baby Blanket),3800,250,4050,cod,Sialkot,B,TCS2458198451
+ZY-26150,C0022,customer:C0022,2026-09-08,delivered,zy0000000298 x1 (Camary Box); zy0000000070 x1 (Good Night 3 pcs Bedsheets),22600,0,22600,cod,Kasur,C,TCS1634323009
+ZY-26151,C0007,customer:C0007,2026-06-19,delivered,zy0000000285 x1 (Master Razai),1900,250,2150,bank_transfer,Sialkot,B,TCS3815389788
+ZY-26152,C0012,customer:C0012,2026-09-07,delivered,zy0000000342 x2 (Jersey Mattress Cover); zy0000000248 x1 (Black Rose 12 pcs Bed Cover),20800,400,21200,easypaisa,Gilgit,D,TCS7988845536
+ZY-26153,C0010,customer:C0010,2026-07-27,delivered,zy0000000297 x1 (Star Link Box); zy0000000169 x1 (King Eskimo 4 pcs Box),24800,0,24800,cod,Rawalpindi,B,TCS5613613759
+ZY-26154,C0030,customer:C0030,2026-07-28,delivered,zy0000000382 x1 (Chamki Razai),2800,250,3050,cod,Sheikhupura,C,TCS4673457063
+ZY-26155,C0040,customer:C0040,2026-08-16,delivered,zy0000000253 x1 (Baby Perla Gold Baby Blanket Large); zy0000000245 x2 (Bloom Petal DG 4 pcs Bed Cover),34900,0,34900,jazzcash,Multan,B,TCS6103449651
+ZY-26156,C0039,customer:C0039,2026-07-31,delivered,zy0000000209 x1 (Super Baby Cloudy Blanket),2800,400,3200,easypaisa,Turbat,D,TCS8891474909
+ZY-26157,C0046,customer:C0046,2026-06-11,delivered,zy0000000017 x1 (Royal Gadda),1250,250,1500,bank_transfer,Gujranwala,B,TCS9551219870
+ZY-26158,C0034,customer:C0034,2026-08-06,delivered,zy0000000188 x1 (Million Gold Cloudy 4 pcs),17400,0,17400,cod,Mardan,C,TCS8621268224
+ZY-26159,C0044,customer:C0044,2026-08-16,delivered,zy0000000301 x1 (Stylo Box); zy0000000178 x1 (Almirah Box); zy0000000030 x2 (Velvet Bedsheet 4 pcs Genral),32800,0,32800,cod_with_advance,Peshawar,B,TCS4750707607
+ZY-26160,C0022,customer:C0022,2026-06-11,delivered,zy0000000182 x1 (Moro Gold Spain Box),15800,0,15800,jazzcash,Kasur,C,TCS2683446724
+ZY-26161,C0039,customer:C0039,2026-08-30,refused,zy0000000247 x2 (Super Cloudy DG 4 pcs Bed Cover),31400,400,31800,bank_transfer,Turbat,D,TCS9991312028
+ZY-26162,C0043,customer:C0043,2026-07-25,delivered,zy0000000185 x1 (Mannat Box),16000,0,16000,cod,Quetta,B,TCS6214917780
+ZY-26163,C0050,customer:C0050,2026-08-02,delivered,zy0000000080 x1 (Cutify 4 pcs Bedsheet),14500,0,14500,cod,Islamabad,B,TCS4384950377
+ZY-26164,C0033,customer:C0033,2026-09-07,delivered,zy0000000238 x1 (Victory 4 pcs Bed Cover); zy0000000016 x1 (Royal Razai); zy0000000306 x2 (Denzy Box),40700,0,40700,cod_with_advance,Bahawalpur,C,TCS4876877928
+ZY-26165,C0047,customer:C0047,2026-07-27,delivered,zy0000000310 x1 (Vick Razai Silk 14 Pcs),9200,400,9600,jazzcash,Skardu,D,TCS7917454662
+ZY-26166,C0049,customer:C0049,2026-09-04,delivered,zy0000000240 x1 (Nice Select Cloudy 4 Pcs Bed Cover),11000,0,11000,cod,Rawalpindi,B,TCS4586784711
+ZY-26167,C0024,customer:C0024,2026-08-26,refused,zy0000000216 x1 (Flex E Dream 4 pcs Bed Cover); zy0000000346 x2 (Cotton Bedsheet Single),10700,0,10700,cod,Lahore,B,TCS3597009738
+ZY-26168,C0056,customer:C0056,2026-07-03,delivered,zy0000000415 x1 (Kat Moti Velvet); zy0000000188 x1 (Million Gold Cloudy 4 pcs),22400,0,22400,cod,Peshawar,B,TCS4277561834
+ZY-26169,C0018,customer:C0018,2026-07-28,refused,zy0000000382 x2 (Chamki Razai),5600,250,5850,cod,Lahore,B,TCS4910589015
+ZY-26170,C0053,customer:C0053,2026-07-28,returned,zy0000000200 x1 (Al Tazkiya Jae Namaz),750,250,1000,cod,Sahiwal,C,TCS2606152369
+ZY-26171,C0025,customer:C0025,2026-06-11,delivered,zy0000000173 x1 (Tiger Box),12300,0,12300,easypaisa,Sheikhupura,C,TCS8086527181
+ZY-26172,C0051,customer:C0051,2026-06-19,delivered,zy0000000382 x2 (Chamki Razai),5600,250,5850,bank_transfer,Okara,C,TCS8325222092
+ZY-26173,C0029,customer:C0029,2026-08-18,delivered,zy0000000006 x1 (Crystal Gadda),1200,250,1450,cod,Dera Ghazi Khan,C,TCS2817865363
+ZY-26174,C0050,customer:C0050,2026-07-07,delivered,zy0000000020 x1 (Royal King Size Bedsheet),1150,250,1400,cod,Islamabad,B,TCS2963288053
+ZY-26175,C0008,customer:C0008,2026-09-16,refused,zy0000000241 x1 (Spring Rose 4 pcs Bed Cover); zy0000000006 x1 (Crystal Gadda),12400,0,12400,cod,Faisalabad,B,TCS9596653373
+ZY-26176,C0023,customer:C0023,2026-07-01,delivered,zy0000000307 x1 (Butterfly Sofa Cover),3500,250,3750,cod,Abbottabad,C,TCS2548781344
+ZY-26177,C0034,customer:C0034,2026-08-09,delivered,zy0000000245 x2 (Bloom Petal DG 4 pcs Bed Cover); zy0000000010 x2 (Super Gadda),30800,0,30800,cod_with_advance,Mardan,C,TCS6898288854
+ZY-26178,C0048,customer:C0048,2026-06-03,delivered,zy0000000181 x1 (Crown Box),14600,0,14600,bank_transfer,Quetta,B,TCS3698343112
+ZY-26179,C0050,customer:C0050,2026-08-14,delivered,zy0000000075 x1 (Korea Touch 4 pcs Bedsheet),11000,0,11000,cod,Islamabad,B,TCS3760786161
+ZY-26180,C0054,customer:C0054,2026-09-08,delivered,zy0000000220 x1 (Disney Teenage Single Bed); zy0000000297 x1 (Star Link Box); zy0000000090 x2 (Sky Blue Double Bed),23800,0,23800,cod,Sahiwal,C,TCS1865826728
+ZY-26181,C0051,customer:C0051,2026-06-26,returned,zy0000000171 x2 (Almirah Poly Bag),23600,0,23600,jazzcash,Okara,C,TCS7627266377
+ZY-26182,C0017,customer:C0017,2026-06-05,delivered,zy0000000165 x1 (Beauty Forever Cloudy),10000,0,10000,easypaisa,Karachi,B,TCS8111312076
+ZY-26183,C0018,customer:C0018,2026-06-16,delivered,zy0000000196 x2 (Blue Bell Double Blanket); zy0000000339 x2 (Copper Tila Sitari Velvet),22000,0,22000,cod,Lahore,B,TCS6097341120
+ZY-26184,C0045,customer:C0045,2026-08-03,delivered,zy0000000143 x1 (Dollar Cloudy); zy0000000363 x2 (Diamond Double Bed),11600,0,11600,cod,Faisalabad,B,TCS4531928910
+ZY-26185,C0035,customer:C0035,2026-07-08,delivered,zy0000000176 x1 (King Horse Box),12500,0,12500,cod,Peshawar,B,TCS2830154607
+ZY-26186,C0045,customer:C0045,2026-07-27,delivered,zy0000000332 x1 (Shapper Plant 4 Pile Velvet),5500,250,5750,bank_transfer,Faisalabad,B,TCS7163022531
+ZY-26187,C0041,customer:C0041,2026-09-10,refused,zy0000000308 x2 (Signature Box),27000,0,27000,cod_with_advance,Dera Ghazi Khan,C,TCS3918046336
+ZY-26188,C0002,customer:C0002,2026-06-19,delivered,zy0000000354 x1 (Fomi Razai); zy0000000206 x1 (Golden Baby Blanket); zy0000000013 x1 (Life Time Razai),8050,250,8300,bank_transfer,Rawalpindi,B,TCS6868336102
+ZY-26189,C0025,customer:C0025,2026-08-12,delivered,zy0000000310 x2 (Vick Razai Silk 14 Pcs),18400,0,18400,jazzcash,Sheikhupura,C,TCS6892752604
+ZY-26190,C0049,customer:C0049,2026-06-10,delivered,zy0000000186 x1 (Manahil Box); zy0000000195 x1 (Silky Thread Double Bed Blanket),20500,0,20500,cod,Rawalpindi,B,TCS1487258103
+ZY-26191,C0048,customer:C0048,2026-06-24,delivered,zy0000000247 x1 (Super Cloudy DG 4 pcs Bed Cover); zy0000000071 x1 (Turkish 5 pcs Sofa Cover),18200,0,18200,bank_transfer,Quetta,B,TCS7922959795
+ZY-26192,C0045,customer:C0045,2026-09-26,confirmed,zy0000000072 x1 (Irani Blanket),2400,250,2650,easypaisa,Faisalabad,B,
+ZY-26193,C0029,customer:C0029,2026-06-23,returned,zy0000000056 x1 (Pure Lily Baby Blanket); zy0000000368 x1 (Malai Parda),3100,250,3350,bank_transfer,Dera Ghazi Khan,C,TCS1963110410
+ZY-26194,C0013,customer:C0013,2026-09-10,delivered,zy0000000011 x1 (Super Razai); zy0000000185 x2 (Mannat Box),33800,0,33800,easypaisa,Sheikhupura,C,TCS3369305560
+ZY-26195,C0040,customer:C0040,2026-09-22,dispatched,zy0000000195 x2 (Silky Thread Double Bed Blanket),9000,250,9250,cod,Multan,B,TCS8598503901
+ZY-26196,C0053,customer:C0053,2026-08-13,delivered,zy0000000300 x1 (Splendid Cloudy),9600,250,9850,cod,Sahiwal,C,TCS2479679716
+ZY-26197,C0057,customer:C0057,2026-09-15,delivered,zy0000000267 x1 (Cristen Single Bed); zy0000000090 x2 (Sky Blue Double Bed); zy0000000346 x1 (Cotton Bedsheet Single),11750,400,12150,easypaisa,Turbat,D,TCS3225231724
+ZY-26198,C0020,customer:C0020,2026-06-22,delivered,zy0000000106 x1 (Sun Set Double Bed); zy0000000181 x1 (Crown Box); zy0000000231 x1 (Super Select Double Bed Blanket),25200,0,25200,cod_with_advance,Gujranwala,B,TCS2178758213
+ZY-26199,C0041,customer:C0041,2026-07-09,delivered,zy0000000226 x1 (Victory Double Bed Blanket),4000,250,4250,cod,Dera Ghazi Khan,C,TCS3493857758
+ZY-26200,C0011,customer:C0011,2026-08-24,delivered,zy0000000179 x1 (Purple Moon Box); zy0000000385 x1 (Double Blanket Bag),14850,0,14850,cod,Larkana,C,TCS7752277876

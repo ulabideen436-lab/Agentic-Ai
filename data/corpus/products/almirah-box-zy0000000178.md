@@ -1,0 +1,29 @@
+---
+doc_id: prod-zy0000000178
+title: "Almirah Box"
+category: product
+source: pos-catalogue
+language: [en, ur, roman-ur]
+product_type: bed_sheet
+last_updated: 2026-09-26
+visibility: public
+contains_personal_data: false
+raw_path: data/corpus/products/almirah-box-zy0000000178.md
+verified: false
+sku: zy0000000178
+---
+
+# Almirah Box
+
+- **Product name (English):** Almirah Box (bed sheet)
+- **Product name (Urdu script):** بیڈ شیٹ / چادر — Almirah Box
+- **Product name (Roman Urdu):** almirah box bed sheet; bedsheet, bed sheet, chadar, chaddar, chader
+- **Category:** Bed sheet
+- **Size and measurements:** Not stated in the product name. Ask the shop, or see the size guide. See "Bed sheet sizes".
+- **Fabric / material:** Not yet recorded by the shop.
+- **Thread count or GSM:** Not yet recorded by the shop.
+- **Colours available:** Current designs are shared as photos on WhatsApp.
+- **Price:** Rs 12,500 on 2026-09-26. The live price list is the final word on price.
+- **What's included:** Boxed bed sheet set. The number of pieces is not yet confirmed by the shop.
+- **Care:** See "Washing bed sheets".
+- **Stock status:** In stock on 2026-09-26.
