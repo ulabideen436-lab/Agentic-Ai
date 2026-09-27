@@ -149,3 +149,4 @@ qa-024,support_qa,Support Q&A: stock back,support_qa,[roman-ur],blanket,2026-09-
 qa-025,support_qa,Support Q&A: easypaisa advance,support_qa,[roman-ur],all,2026-09-26,public,false,data/raw/support_qa/qa-025.md,9dde1b7a46bb1cef0bceb31a258bc25023cb0f1017cdc571d3e9b8cd643505c1
 table-orders,structured,Orders (synthetic),structured,[en],all,2026-09-27,per_row,false,data/raw/structured/orders.csv,403e2414c80af83b1d803caacd89c0702fa6154735de8655b69c8ef8c744d796
 table-prices-stock,structured,Retail prices and stock status,structured,[en],all,2026-09-27,public,false,data/raw/structured/prices_stock.csv,f1fc11062f43cc5fb51fb2a51eefdb057667237ecd4e0ba5ec64fcf12ee69eeb
+pos-catalogue-export,pos_catalogue,POS catalogue export,catalogue_export,[en],all,2026-08-16,internal,false,data/raw/pos_catalogue/products-export.json,18c1e175233582912471e972bb30599e7c1a25ae77d57b5e0d895e27c05e1775
